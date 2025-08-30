@@ -2,5 +2,5 @@
 
 This addon depends on:
 
-- [pos_hr](https://github.com/bringout/oca-ocb-pos/tree/14ee1f91a4a90fb63ee4ea81641a8d4cf0e9cff2/odoo-bringout-oca-ocb-pos_hr)
+- [pos_hr](https://github.com/bringout/oca-ocb-pos/tree/9f810f5d848b07e7e1479a7db2bcc1a646cc690e/odoo-bringout-oca-ocb-pos_hr)
 - [pos_receipt_replace_user_by_trigram](https://github.com/bringout/oca-technical)
