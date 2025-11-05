@@ -15,7 +15,6 @@ msgstr ""
 
 #. module: pos_order_reorder
 #: model:ir.model.fields,field_description:pos_order_reorder.field_pos_config__allow_reorder
-#: model:ir.model.fields,field_description:pos_order_reorder.field_res_config_settings__pos_allow_reorder
 msgid "Allow Reorder"
 msgstr "Dozvoli ponovnu narudžbu"
 
@@ -36,7 +35,7 @@ msgstr "Postavke prodajnog mjesta"
 
 #. module: pos_order_reorder
 #. odoo-javascript
-#: code:addons/pos_order_reorder/static/src/xml/Screens/TicketScreen/ControlButtons/ReorderButton.xml:0
+#: code:addons/pos_order_reorder/static/src/xml/Screens/TicketScreen/ControlButtons/ReorderButton.xml
 #, python-format
 msgid "Re-order"
 msgstr "Ponovna narudžba"

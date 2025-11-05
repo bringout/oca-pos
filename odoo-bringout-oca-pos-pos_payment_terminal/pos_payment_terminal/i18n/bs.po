@@ -15,16 +15,18 @@ msgstr ""
 
 #. module: pos_payment_terminal
 #. odoo-javascript
-#: code:addons/pos_payment_terminal/static/src/js/models.js:0
+#: code:addons/pos_payment_terminal/static/src/js/models.js
 #, python-format
 msgid ""
 "A payment terminal has been linked to one payment provider but the IoT Box "
 "location has not been configured."
 msgstr ""
+"Terminal za plaćanje je povezan sa jednim pružateljem plaćanja ali lokacija "
+"IoT Box-a nije konfigurirana."
 
 #. module: pos_payment_terminal
 #. odoo-javascript
-#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js:0
+#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js
 #, python-format
 msgid "Cannot process transactions with zero or negative amount."
 msgstr "Nije moguće obraditi transakcije sa nultim ili negativnim iznosom."
@@ -41,16 +43,18 @@ msgstr "Ček"
 
 #. module: pos_payment_terminal
 #. odoo-javascript
-#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js:0
+#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js
 #, python-format
 msgid ""
 "Failed to send the amount to pay to the payment terminal. Press the red "
 "button on the payment terminal and try again."
 msgstr ""
+"Neuspješno slanje iznosa za plaćanje na terminal za plaćanje. Pritisnite "
+"crveno dugme na terminalu za plaćanje i pokušajte ponovo."
 
 #. module: pos_payment_terminal
 #. odoo-python
-#: code:addons/pos_payment_terminal/models/pos_payment_method.py:0
+#: code:addons/pos_payment_terminal/models/pos_payment_method.py
 #, python-format
 msgid "OCA Payment Terminal"
 msgstr "OCA terminal za plaćanje"
@@ -62,20 +66,21 @@ msgstr "Način plaćanja"
 
 #. module: pos_payment_terminal
 #. odoo-javascript
-#: code:addons/pos_payment_terminal/static/src/js/models.js:0
-#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js:0
+#: code:addons/pos_payment_terminal/static/src/js/models.js
 #, python-format
 msgid "Payment Terminal Error"
 msgstr "Greška terminala za plaćanje"
 
 #. module: pos_payment_terminal
 #. odoo-javascript
-#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js:0
+#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js
 #, python-format
 msgid ""
 "Please press the red button on the payment terminal to cancel the "
 "transaction."
 msgstr ""
+"Molimo pritisnite crveno dugme na terminalu za plaćanje da otkažete "
+"transakciju."
 
 #. module: pos_payment_terminal
 #: model:ir.model,name:pos_payment_terminal.model_pos_payment_method
@@ -98,3 +103,5 @@ msgid ""
 "The identifier of the terminal as known by the hardware proxy. Leave empty "
 "if the proxy has only one terminal connected."
 msgstr ""
+"Identifikator terminala kako ga poznaje hardverski proxy. Ostavite prazno "
+"ako proxy ima samo jedan povezani terminal."

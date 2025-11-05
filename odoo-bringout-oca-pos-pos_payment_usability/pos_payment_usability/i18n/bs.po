@@ -15,15 +15,14 @@ msgstr ""
 
 #. module: pos_payment_usability
 #. odoo-javascript
-#: code:addons/pos_payment_usability/static/src/xml/PaymentScreen.xml:0
-#: code:addons/pos_payment_usability/static/src/xml/PaymentScreen.xml:0
+#: code:addons/pos_payment_usability/static/src/xml/PaymentScreen.xml
 #, python-format
 msgid "Pay"
 msgstr "Plati"
 
 #. module: pos_payment_usability
 #. odoo-javascript
-#: code:addons/pos_payment_usability/static/src/xml/PaymentScreen.xml:0
+#: code:addons/pos_payment_usability/static/src/xml/PaymentScreen.xml
 #, python-format
 msgid "Validate"
 msgstr "Ovjeri"

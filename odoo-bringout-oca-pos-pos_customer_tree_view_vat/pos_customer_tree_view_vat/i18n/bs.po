@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: pos_customer_tree_view_vat
 #. odoo-javascript
-#: code:addons/pos_customer_tree_view_vat/static/src/xml/partner_list_screen.xml:0
+#: code:addons/pos_customer_tree_view_vat/static/src/xml/partner_list_screen.xml
 #, python-format
 msgid "Tax ID"
 msgstr "PDV ID"

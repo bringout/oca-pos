@@ -15,12 +15,14 @@ msgstr ""
 
 #. module: pos_payment_method_change_policy
 #. odoo-javascript
-#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js:0
+#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js
 #, python-format
 msgid ""
 "\n"
 "Then, reload your Point of Sale."
 msgstr ""
+"\n"
+"Zatim, ponovo učitaj svoje prodajno mjesto."
 
 #. module: pos_payment_method_change_policy
 #: model:ir.model.fields.selection,name:pos_payment_method_change_policy.selection__pos_payment_method__change_policy__cash
@@ -29,7 +31,7 @@ msgstr "Gotovina"
 
 #. module: pos_payment_method_change_policy
 #. odoo-javascript
-#: code:addons/pos_payment_method_change_policy/static/src/xml/PaymentScreen.xml:0
+#: code:addons/pos_payment_method_change_policy/static/src/xml/PaymentScreen.xml
 #, python-format
 msgid "Change"
 msgstr "Promjeni"
@@ -46,14 +48,14 @@ msgstr "Proizvod promjene"
 
 #. module: pos_payment_method_change_policy
 #. odoo-javascript
-#: code:addons/pos_payment_method_change_policy/static/src/xml/PaymentScreen.xml:0
+#: code:addons/pos_payment_method_change_policy/static/src/xml/PaymentScreen.xml
 #, python-format
 msgid "Customer Loss"
 msgstr "Gubitak kupca"
 
 #. module: pos_payment_method_change_policy
 #. odoo-javascript
-#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js:0
+#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js
 #, python-format
 msgid "Error: Unavailable Product."
 msgstr "Greška: Proizvod nije dostupan."
@@ -70,6 +72,9 @@ msgid ""
 " * 'Cash': (Default). the cashier will give back money in cash method.\n"
 " * 'Exceptional Profit Product': an extra PoS Order Line will be added in the PoS Order of the surplus amount. This will be an exceptional gain for the seller, and a loss for the customer."
 msgstr ""
+"Metod upravljanja davanjem kusura.\n"
+" * 'Gotovina': (Zadano). blagajnik će vratiti novac u gotovini.\n"
+" * 'Proizvod izuzetne dobiti': dodatna linija narudžbe prodajnog mjesta će biti dodana u narudžbu prodajnog mjesta za iznos viška. Ovo će biti izuzetna dobit za prodavca i gubitak za kupca."
 
 #. module: pos_payment_method_change_policy
 #: model:product.template,name:pos_payment_method_change_policy.profit_product_product_template
@@ -78,13 +83,16 @@ msgstr "Proizvod bez kusura"
 
 #. module: pos_payment_method_change_policy
 #. odoo-javascript
-#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js:0
+#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js
 #, python-format
 msgid ""
 "Please make the following product\n"
 "available in the point of sale : \n"
 "\n"
 msgstr ""
+"Molimo učinite sljedeći proizvod\n"
+"dostupnim u prodajnom mjestu: \n"
+"\n"
 
 #. module: pos_payment_method_change_policy
 #: model:ir.model,name:pos_payment_method_change_policy.model_pos_payment_method
@@ -98,12 +106,14 @@ msgstr "Sesija POS-a"
 
 #. module: pos_payment_method_change_policy
 #. odoo-python
-#: code:addons/pos_payment_method_change_policy/models/pos_payment_method.py:0
+#: code:addons/pos_payment_method_change_policy/models/pos_payment_method.py
 #, python-format
 msgid ""
 "The field 'Change Product' is required if the 'Change policy' is set to "
 "'Exceptional Profit Product'."
 msgstr ""
+"Polje 'Proizvod promjene' je obavezno ako je 'Politika promjene' postavljena"
+" na 'Proizvod izuzetne dobiti'."
 
 #. module: pos_payment_method_change_policy
 #: model:ir.model.fields,help:pos_payment_method_change_policy.field_pos_payment_method__change_product_id
@@ -111,3 +121,5 @@ msgid ""
 "This product will be used if customer pays more that the amount of the "
 "receipt, to add an extra order line when confirming order."
 msgstr ""
+"Ovaj proizvod će biti korišćen ako kupac plati više od iznosa računa, za "
+"dodavanje dodatne linije narudžbe prilikom potvrđivanja narudžbe."

@@ -13,8 +13,10 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+# taken from hr.po
 #. module: pos_to_weight_by_product_uom
 #: model:ir.model,name:pos_to_weight_by_product_uom.model_product_template
+#, fuzzy
 msgid "Product"
 msgstr "Predložak proizvoda"
 
@@ -35,6 +37,5 @@ msgstr "Varijanta proizvoda"
 
 #. module: pos_to_weight_by_product_uom
 #: model:ir.model.fields,field_description:pos_to_weight_by_product_uom.field_uom_category__to_weight
-#: model:ir.model.fields,field_description:pos_to_weight_by_product_uom.field_uom_uom__to_weight
 msgid "To Weigh With Scale"
 msgstr "Vaganje sa vagom"

@@ -20,7 +20,6 @@ msgstr "Postavke"
 
 #. module: pos_payment_restriction
 #: model:ir.model.fields,field_description:pos_payment_restriction.field_pos_config__payment_amount_readonly
-#: model:ir.model.fields,field_description:pos_payment_restriction.field_res_config_settings__pos_payment_amount_readonly
 msgid "Payment Amount Readonly"
 msgstr "Iznos plaćanja samo za čitanje"
 
@@ -31,11 +30,12 @@ msgstr "Iznos linija plaćanja će biti samo za čitanje"
 
 #. module: pos_payment_restriction
 #: model:ir.model.fields,help:pos_payment_restriction.field_pos_config__payment_amount_readonly
-#: model:ir.model.fields,help:pos_payment_restriction.field_res_config_settings__pos_payment_amount_readonly
 msgid ""
 "Payment lines amount would be readonly. This should be usedwith the 'Prefill"
 " Cash Payment' option"
 msgstr ""
+"Iznos linija plaćanja će biti samo za čitanje. Ovo se koristi sa opcijom "
+"'Unaprijed popuni gotovo plaćanje'"
 
 #. module: pos_payment_restriction
 #: model:ir.model,name:pos_payment_restriction.model_pos_config

@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: pos_order_new_line
 #. odoo-javascript
-#: code:addons/pos_order_new_line/static/src/xml/NewlineButton.xml:0
+#: code:addons/pos_order_new_line/static/src/xml/NewlineButton.xml
 #, python-format
 msgid "New Line"
 msgstr "Nova linija"

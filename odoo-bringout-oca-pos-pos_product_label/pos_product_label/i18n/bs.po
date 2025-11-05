@@ -15,14 +15,14 @@ msgstr ""
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
 #, python-format
 msgid "Cancel"
 msgstr "Otkaži"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
 #, python-format
 msgid "Choose Labels Layout"
 msgstr "Odaberite izgled naljepnica"
@@ -30,7 +30,8 @@ msgstr "Odaberite izgled naljepnica"
 #. module: pos_product_label
 #: model:ir.model,name:pos_product_label.model_product_label_layout
 msgid "Choose the sheet layout to print the labels"
-msgstr "Odaberite kako želite rasporediti naljepnice na papiru prilikom ispisa"
+msgstr ""
+"Odaberite kako želite rasporediti naljepnice na papiru prilikom ispisa"
 
 #. module: pos_product_label
 #: model:ir.model,name:pos_product_label.model_res_config_settings
@@ -39,35 +40,33 @@ msgstr "Postavke"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
 #, python-format
 msgid "Custom"
 msgstr "Prilagođeno"
 
 #. module: pos_product_label
 #: model:ir.model.fields,help:pos_product_label.field_pos_config__iface_product_label
-#: model:ir.model.fields,help:pos_product_label.field_res_config_settings__iface_product_label
-#: model_terms:ir.ui.view,arch_db:pos_product_label.res_config_settings_view_form
 msgid "Display a button to print Product Labels for ordered products"
 msgstr "Prikaži dugme za štampanje etiketa proizvoda za naručene proizvode"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
 #, python-format
 msgid "Extra Content"
 msgstr "Dodatni sadržaj"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
 #, python-format
 msgid "Format"
 msgstr "Format"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
 #, python-format
 msgid "Order Quantities"
 msgstr "Količine narudžbe"
@@ -84,36 +83,33 @@ msgstr "Sesija POS-a"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
 #, python-format
 msgid "Print"
 msgstr "Ispis"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelButton.xml:0
-#: code:addons/pos_product_label/static/src/PrintLabelButton.xml:0
-#: code:addons/pos_product_label/static/src/PrintLabelButton.xml:0
+#: code:addons/pos_product_label/static/src/PrintLabelButton.xml
 #, python-format
 msgid "Print Labels"
 msgstr "Štampa labela"
 
 #. module: pos_product_label
 #: model:ir.model.fields,field_description:pos_product_label.field_pos_config__iface_product_label
-#: model:ir.model.fields,field_description:pos_product_label.field_res_config_settings__iface_product_label
 msgid "Print Product Labels"
 msgstr "Štampaj etikete proizvoda"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
 #, python-format
 msgid "Quantity"
 msgstr "Količina"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
 #, python-format
 msgid "Quantity to Print"
 msgstr "Količina za štampanje"

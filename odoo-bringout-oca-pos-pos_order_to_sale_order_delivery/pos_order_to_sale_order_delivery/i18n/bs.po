@@ -15,8 +15,7 @@ msgstr ""
 
 #. module: pos_order_to_sale_order_delivery
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_delivery/static/src/js/Popups/ChooseDeliveryCarrierPopup.esm.js:0
-#: code:addons/pos_order_to_sale_order_delivery/static/src/xml/Popups/CreateOrderPopup.xml:0
+#: code:addons/pos_order_to_sale_order_delivery/static/src/js/Popups/ChooseDeliveryCarrierPopup.esm.js
 #, python-format
 msgid "Add a shipping method"
 msgstr "Dodaj način dostave"
@@ -28,7 +27,7 @@ msgstr "Dozvoli dostavu"
 
 #. module: pos_order_to_sale_order_delivery
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_delivery/static/src/js/Popups/ChooseDeliveryCarrierPopup.esm.js:0
+#: code:addons/pos_order_to_sale_order_delivery/static/src/js/Popups/ChooseDeliveryCarrierPopup.esm.js
 #, python-format
 msgid "Cancel"
 msgstr "Otkaži"
@@ -40,34 +39,33 @@ msgstr "Postavke"
 
 #. module: pos_order_to_sale_order_delivery
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_delivery/static/src/js/Popups/ChooseDeliveryCarrierPopup.esm.js:0
+#: code:addons/pos_order_to_sale_order_delivery/static/src/js/Popups/ChooseDeliveryCarrierPopup.esm.js
 #, python-format
 msgid "Confirm"
 msgstr "Potvrdi"
 
 #. module: pos_order_to_sale_order_delivery
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_delivery/static/src/xml/Popups/ChooseDeliveryCarrierPopup.xml:0
+#: code:addons/pos_order_to_sale_order_delivery/static/src/xml/Popups/ChooseDeliveryCarrierPopup.xml
 #, python-format
 msgid "Cost:"
 msgstr "Trošak:"
 
 #. module: pos_order_to_sale_order_delivery
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_delivery/static/src/js/Popups/CreateOrderPopup.esm.js:0
+#: code:addons/pos_order_to_sale_order_delivery/static/src/js/Popups/CreateOrderPopup.esm.js
 #, python-format
 msgid "Error"
 msgstr "Greška"
 
 #. module: pos_order_to_sale_order_delivery
 #: model:ir.model.fields,field_description:pos_order_to_sale_order_delivery.field_pos_config__iface_sale_order_allow_delivery
-#: model:ir.model.fields,field_description:pos_order_to_sale_order_delivery.field_res_config_settings__pos_iface_sale_order_allow_delivery
 msgid "Iface Sale Order Allow Delivery"
 msgstr "Prodajno mjesto dozvoli dostavu"
 
 #. module: pos_order_to_sale_order_delivery
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_delivery/static/src/js/Popups/CreateOrderPopup.esm.js:0
+#: code:addons/pos_order_to_sale_order_delivery/static/src/js/Popups/CreateOrderPopup.esm.js
 #, python-format
 msgid "Not Found Shipping Methods."
 msgstr "Metodi dostave nisu pronađeni."
@@ -84,8 +82,6 @@ msgstr "Prodajni nalog"
 
 #. module: pos_order_to_sale_order_delivery
 #: model:ir.model,name:pos_order_to_sale_order_delivery.model_delivery_carrier
-#: model:ir.model.fields,field_description:pos_order_to_sale_order_delivery.field_pos_config__iface_sale_order_delivery_carrier_ids
-#: model:ir.model.fields,field_description:pos_order_to_sale_order_delivery.field_res_config_settings__pos_iface_sale_order_delivery_carrier_ids
 msgid "Shipping Methods"
 msgstr "Načini dostave"
 
@@ -95,3 +91,5 @@ msgid ""
 "The specified shipping methods will be available in the PoS during the "
 "creation of the Sale Order"
 msgstr ""
+"Specificirani metodi dostave će biti dostupni u prodajnom mjestu tokom "
+"kreiranja prodajne narudžbe"

@@ -15,35 +15,35 @@ msgstr ""
 
 #. module: pos_receipt_vat_detail
 #. odoo-javascript
-#: code:addons/pos_receipt_vat_detail/static/src/js/models.js:0
+#: code:addons/pos_receipt_vat_detail/static/src/js/models.js
 #, python-format
 msgid "Amount"
 msgstr "Iznos"
 
 #. module: pos_receipt_vat_detail
 #. odoo-javascript
-#: code:addons/pos_receipt_vat_detail/static/src/js/models.js:0
+#: code:addons/pos_receipt_vat_detail/static/src/js/models.js
 #, python-format
 msgid "Base"
 msgstr "Osnova"
 
 #. module: pos_receipt_vat_detail
 #. odoo-javascript
-#: code:addons/pos_receipt_vat_detail/static/src/js/models.js:0
+#: code:addons/pos_receipt_vat_detail/static/src/js/models.js
 #, python-format
 msgid "Over"
 msgstr "Preko"
 
 #. module: pos_receipt_vat_detail
 #. odoo-javascript
-#: code:addons/pos_receipt_vat_detail/static/src/js/models.js:0
+#: code:addons/pos_receipt_vat_detail/static/src/js/models.js
 #, python-format
 msgid "Tax"
 msgstr "Porez"
 
 #. module: pos_receipt_vat_detail
 #. odoo-javascript
-#: code:addons/pos_receipt_vat_detail/static/src/js/models.js:0
+#: code:addons/pos_receipt_vat_detail/static/src/js/models.js
 #, python-format
 msgid "Total"
 msgstr "Ukupno"

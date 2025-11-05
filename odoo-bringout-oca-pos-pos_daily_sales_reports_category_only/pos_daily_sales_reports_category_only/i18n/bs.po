@@ -30,8 +30,7 @@ msgstr "Pop:"
 
 #. module: pos_daily_sales_reports_category_only
 #. odoo-javascript
-#: code:addons/pos_daily_sales_reports_category_only/static/src/xml/SaleDetailsReport.xml:0
-#: code:addons/pos_daily_sales_reports_category_only/static/src/xml/SaleDetailsReport.xml:0
+#: code:addons/pos_daily_sales_reports_category_only/static/src/xml/SaleDetailsReport.xml
 #, python-format
 msgid "Discount:"
 msgstr "Popust:"
@@ -68,7 +67,6 @@ msgstr "Izvještaji"
 
 #. module: pos_daily_sales_reports_category_only
 #: model:ir.model.fields,field_description:pos_daily_sales_reports_category_only.field_pos_config__sales_report_by_category_only
-#: model:ir.model.fields,field_description:pos_daily_sales_reports_category_only.field_res_config_settings__pos_sales_report_by_category_only
 msgid "Sales Report by Category only?"
 msgstr "Sales Report by Category only?"
 

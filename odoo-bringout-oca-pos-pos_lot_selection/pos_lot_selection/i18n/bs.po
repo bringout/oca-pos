@@ -20,7 +20,7 @@ msgstr "Lot/Serijski"
 
 #. module: pos_lot_selection
 #. odoo-javascript
-#: code:addons/pos_lot_selection/static/src/js/EditListPopup.js:0
+#: code:addons/pos_lot_selection/static/src/js/EditListPopup.js
 #, python-format
 msgid "Lot/Serial Number(s) Required"
 msgstr "Lot/Serijski broj je neophodan"

@@ -15,14 +15,14 @@ msgstr ""
 
 #. module: pos_receipt_hide_price
 #. odoo-javascript
-#: code:addons/pos_receipt_hide_price/static/src/xml/HidePrice.xml:0
+#: code:addons/pos_receipt_hide_price/static/src/xml/HidePrice.xml
 #, python-format
 msgid "Hide Price"
 msgstr "Sakrij cijenu"
 
 #. module: pos_receipt_hide_price
 #. odoo-javascript
-#: code:addons/pos_receipt_hide_price/static/src/xml/HidePrice.xml:0
+#: code:addons/pos_receipt_hide_price/static/src/xml/HidePrice.xml
 #, python-format
 msgid "Show Price"
 msgstr "Prikaži cijenu"

@@ -20,7 +20,7 @@ msgstr "Sesija POS-a"
 
 #. module: pos_partner_sale_warning
 #. odoo-javascript
-#: code:addons/pos_partner_sale_warning/static/src/js/PartnerListScreen.esm.js:0
+#: code:addons/pos_partner_sale_warning/static/src/js/PartnerListScreen.esm.js
 #, python-format
 msgid "Warning for %s"
 msgstr "Upozorenje za %s"

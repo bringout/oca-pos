@@ -20,60 +20,55 @@ msgstr "Postavke"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml:0
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml
 #, python-format
 msgid "Create Confirmed Sale Order"
 msgstr "Kreiraj potvrđenu prodajnu narudžbu"
 
 #. module: pos_order_to_sale_order
 #: model:ir.model.fields,field_description:pos_order_to_sale_order.field_pos_config__iface_create_confirmed_sale_order
-#: model:ir.model.fields,field_description:pos_order_to_sale_order.field_res_config_settings__pos_iface_create_confirmed_sale_order
 msgid "Create Confirmed Sale Orders"
 msgstr "Kreiraj potvrđene prodajne narudžbe"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml:0
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml
 #, python-format
 msgid "Create Delivered Sale Order"
 msgstr "Kreiraj isporučenu prodajnu narudžbu"
 
 #. module: pos_order_to_sale_order
 #: model:ir.model.fields,field_description:pos_order_to_sale_order.field_pos_config__iface_create_delivered_sale_order
-#: model:ir.model.fields,field_description:pos_order_to_sale_order.field_res_config_settings__pos_iface_create_delivered_sale_order
 msgid "Create Delivered Sale Orders"
 msgstr "Kreiraj isporučene prodajne narudžbe"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml:0
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml
 #, python-format
 msgid "Create Draft Sale Order"
 msgstr "Kreiraj nacrt prodajne narudžbe"
 
 #. module: pos_order_to_sale_order
 #: model:ir.model.fields,field_description:pos_order_to_sale_order.field_pos_config__iface_create_draft_sale_order
-#: model:ir.model.fields,field_description:pos_order_to_sale_order.field_res_config_settings__pos_iface_create_draft_sale_order
 msgid "Create Draft Sale Orders"
 msgstr "Kreiraj nacrte prodajnih narudžbi"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml:0
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml
 #, python-format
 msgid "Create Invoiced Sale Order"
 msgstr "Kreiraj fakturisanu prodajnu narudžbu"
 
 #. module: pos_order_to_sale_order
 #: model:ir.model.fields,field_description:pos_order_to_sale_order.field_pos_config__iface_create_invoiced_sale_order
-#: model:ir.model.fields,field_description:pos_order_to_sale_order.field_res_config_settings__pos_iface_create_invoiced_sale_order
 msgid "Create Invoiced Sale Orders"
 msgstr "Kreiraj fakturisane prodajne narudžbe"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderButton.xml:0
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml:0
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderButton.xml
 #, python-format
 msgid "Create Order"
 msgstr "Kreiraj narudžbu"
@@ -85,48 +80,54 @@ msgstr "Kreiraj prodajne narudžbe"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml:0
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml
 #, python-format
 msgid "Discard"
 msgstr "Napusti"
 
 #. module: pos_order_to_sale_order
 #: model:ir.model.fields,help:pos_order_to_sale_order.field_pos_config__iface_create_confirmed_sale_order
-#: model:ir.model.fields,help:pos_order_to_sale_order.field_res_config_settings__pos_iface_create_confirmed_sale_order
 msgid ""
 "If checked, the cashier will have the possibility to create a confirmed Sale"
 " Order, based on the current draft PoS Order."
 msgstr ""
+"Ako je označeno, blagajnik će imati mogućnost kreiranja potvrđene prodajne "
+"narudžbe na osnovu trenutnog nacrta narudžbe prodajnog mjesta."
 
 #. module: pos_order_to_sale_order
 #: model:ir.model.fields,help:pos_order_to_sale_order.field_pos_config__iface_create_invoiced_sale_order
-#: model:ir.model.fields,help:pos_order_to_sale_order.field_res_config_settings__pos_iface_create_invoiced_sale_order
 msgid ""
 "If checked, the cashier will have the possibility to create a confirmed sale Order, based on the current draft PoS Order.\n"
 " the according picking will be marked as delivered.\n"
 " The Invoice will be generated and confirm.\n"
 " Only invoice payment process will be possible."
 msgstr ""
+"Ako je označeno, blagajnik će imati mogućnost kreiranja potvrđene prodajne narudžbe na osnovu trenutnog nacrta narudžbe prodajnog mjesta.\n"
+" Odgovarajuća preuzimanja će biti označena kao isporučena.\n"
+" Faktura će biti generisana i potvrđena.\n"
+" Samo proces plaćanja fakture će biti moguć."
 
 #. module: pos_order_to_sale_order
 #: model:ir.model.fields,help:pos_order_to_sale_order.field_pos_config__iface_create_delivered_sale_order
-#: model:ir.model.fields,help:pos_order_to_sale_order.field_res_config_settings__pos_iface_create_delivered_sale_order
 msgid ""
 "If checked, the cashier will have the possibility to create a confirmed sale Order, based on the current draft PoS Order.\n"
 " the according picking will be marked as delivered. Only invoices process will be possible."
 msgstr ""
+"Ako je označeno, blagajnik će imati mogućnost kreiranja potvrđene prodajne narudžbe na osnovu trenutnog nacrta narudžbe prodajnog mjesta.\n"
+" Odgovarajuća preuzimanje će biti označena kao isporučena. Samo proces fakturisanja će biti moguć."
 
 #. module: pos_order_to_sale_order
 #: model:ir.model.fields,help:pos_order_to_sale_order.field_pos_config__iface_create_draft_sale_order
-#: model:ir.model.fields,help:pos_order_to_sale_order.field_res_config_settings__pos_iface_create_draft_sale_order
 msgid ""
 "If checked, the cashier will have the possibility to create a draft Sale "
 "Order, based on the current draft PoS Order."
 msgstr ""
+"Ako je označeno, blagajnik će imati mogućnost kreiranja nacrta prodajne "
+"narudžbe na osnovu trenutnog nacrta narudžbe prodajnog mjesta."
 
 #. module: pos_order_to_sale_order
 #. odoo-python
-#: code:addons/pos_order_to_sale_order/models/sale_order.py:0
+#: code:addons/pos_order_to_sale_order/models/sale_order.py
 #, python-format
 msgid "Point of Sale %s"
 msgstr "Prodajno mjesto %s"

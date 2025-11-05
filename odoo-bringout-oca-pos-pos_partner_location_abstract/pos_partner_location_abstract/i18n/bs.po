@@ -15,42 +15,42 @@ msgstr ""
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerMapEdit.xml:0
+#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerMapEdit.xml
 #, python-format
 msgid "Address"
 msgstr "Adresa"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js:0
+#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js
 #, python-format
 msgid "An unknown error prevents us from loading product information."
 msgstr "Nepoznata greška sprječava učitavanje informacija o proizvodu."
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js:0
+#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js
 #, python-format
 msgid "Cannot access map functions!"
 msgstr "Nije moguć pristup funkcijama mape!"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js:0
+#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js
 #, python-format
 msgid "Cannot access product information screen if offline."
 msgstr "Nije moguć pristup ekranu informacija o proizvodu u offline režimu."
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerMapEdit.xml:0
+#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerMapEdit.xml
 #, python-format
 msgid "Close"
 msgstr "Zatvori"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerMapEdit.xml:0
+#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerMapEdit.xml
 #, python-format
 msgid "Confirm"
 msgstr "Potvrdi"
@@ -62,7 +62,7 @@ msgstr "Kontakt"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerMapEdit.xml:0
+#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerMapEdit.xml
 #, python-format
 msgid "Customer"
 msgstr "Kupac"
@@ -74,49 +74,49 @@ msgstr "Tehničko ime geolokalizacije"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerDetailsEdit.xml:0
+#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerDetailsEdit.xml
 #, python-format
 msgid "Lat"
 msgstr "Geo. širina"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerDetailsEdit.xml:0
+#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerDetailsEdit.xml
 #, python-format
 msgid "Latitude"
 msgstr "Geografska širina"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerMapEdit.xml:0
+#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerMapEdit.xml
 #, python-format
 msgid "Location"
 msgstr "Lokacija"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerDetailsEdit.xml:0
+#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerDetailsEdit.xml
 #, python-format
 msgid "Long"
 msgstr "Geo. dužina"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerDetailsEdit.xml:0
+#: code:addons/pos_partner_location_abstract/static/src/xml/PartnerDetailsEdit.xml
 #, python-format
 msgid "Longitude"
 msgstr "Geografska dužina"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js:0
+#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js
 #, python-format
 msgid "Map Error"
 msgstr "Greška mape"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js:0
+#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js
 #, python-format
 msgid "Network Error"
 msgstr "Pogreška mreže"
@@ -133,13 +133,12 @@ msgstr "Sesija POS-a"
 
 #. module: pos_partner_location_abstract
 #: model:ir.model.fields,field_description:pos_partner_location_abstract.field_res_partner__qr_code_url
-#: model:ir.model.fields,field_description:pos_partner_location_abstract.field_res_users__qr_code_url
 msgid "Qr Code Url"
 msgstr "QR kod URL"
 
 #. module: pos_partner_location_abstract
 #. odoo-javascript
-#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js:0
+#: code:addons/pos_partner_location_abstract/static/src/js/PartnerDetailsMapEdit.esm.js
 #, python-format
 msgid "Unknown error"
 msgstr "Nepoznata greška"

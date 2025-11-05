@@ -15,47 +15,49 @@ msgstr ""
 
 #. module: pos_membership_extension
 #: model:ir.model.fields,field_description:pos_membership_extension.field_product_product__allowed_membership_category_ids
-#: model:ir.model.fields,field_description:pos_membership_extension.field_product_template__allowed_membership_category_ids
 msgid "Allowed Membership categories"
 msgstr "Allowed Membership categories"
 
 #. module: pos_membership_extension
 #: model:ir.model.fields,help:pos_membership_extension.field_product_product__allowed_membership_category_ids
-#: model:ir.model.fields,help:pos_membership_extension.field_product_template__allowed_membership_category_ids
 msgid ""
 "If set, the product will be sallable only to customer that belong to the "
 "given membership categories"
 msgstr ""
+"If set, the product will be sallable only to customer that belong to the "
+"given membership categories"
 
 #. module: pos_membership_extension
 #. odoo-javascript
-#: code:addons/pos_membership_extension/static/src/js/ProductScreen.js:0
+#: code:addons/pos_membership_extension/static/src/js/ProductScreen.js
 #, python-format
 msgid "Incorrect Membership"
 msgstr "Incorrect Membership"
 
 #. module: pos_membership_extension
 #. odoo-javascript
-#: code:addons/pos_membership_extension/static/src/xml/ProductInfoPopup.xml:0
+#: code:addons/pos_membership_extension/static/src/xml/ProductInfoPopup.xml
 #, python-format
 msgid "Membership Categories:"
 msgstr "Membership Categories:"
 
 #. module: pos_membership_extension
 #. odoo-javascript
-#: code:addons/pos_membership_extension/static/src/js/models.js:0
+#: code:addons/pos_membership_extension/static/src/js/models.js
 #, python-format
 msgid "Order Line Removal"
 msgstr "Order Line Removal"
 
 #. module: pos_membership_extension
 #. odoo-javascript
-#: code:addons/pos_membership_extension/static/src/js/ProductScreen.js:0
+#: code:addons/pos_membership_extension/static/src/js/ProductScreen.js
 #, python-format
 msgid ""
 "Please select a customer that belong to one of the related membership "
 "categories."
 msgstr ""
+"Please select a customer that belong to one of the related membership "
+"categories."
 
 #. module: pos_membership_extension
 #: model:ir.model,name:pos_membership_extension.model_pos_session
@@ -79,16 +81,18 @@ msgstr "Product for Member"
 
 #. module: pos_membership_extension
 #. odoo-javascript
-#: code:addons/pos_membership_extension/static/src/js/models.js:0
+#: code:addons/pos_membership_extension/static/src/js/models.js
 #, python-format
 msgid ""
 "The following lines has been removed, as the product cannot be sold to this "
 "partner: ${bad_product_text}"
 msgstr ""
+"The following lines has been removed, as the product cannot be sold to this "
+"partner: ${bad_product_text}"
 
 #. module: pos_membership_extension
 #. odoo-javascript
-#: code:addons/pos_membership_extension/static/src/xml/ProductItem.xml:0
+#: code:addons/pos_membership_extension/static/src/xml/ProductItem.xml
 #, python-format
 msgid "This product can not be sold because of membership rules"
 msgstr "This product can not be sold because of membership rules"

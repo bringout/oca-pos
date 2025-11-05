@@ -20,14 +20,11 @@ msgstr "Postavke"
 
 #. module: pos_margin
 #: model:ir.model.fields,field_description:pos_margin.field_pos_config__iface_display_margin
-#: model:ir.model.fields,field_description:pos_margin.field_res_config_settings__pos_iface_display_margin
 msgid "Diplay Margin"
 msgstr "Diplay Margin"
 
 #. module: pos_margin
 #: model:ir.model.fields,help:pos_margin.field_pos_config__iface_display_margin
-#: model:ir.model.fields,help:pos_margin.field_res_config_settings__pos_iface_display_margin
-#: model_terms:ir.ui.view,arch_db:pos_margin.res_config_settings_view_form_margin_inherit
 msgid "Display Margin and Margin Rate in the frontend"
 msgstr "Display Margin and Margin Rate in the frontend"
 
@@ -43,7 +40,7 @@ msgstr "Margin Total"
 
 #. module: pos_margin
 #. odoo-javascript
-#: code:addons/pos_margin/static/src/xml/pos_margin.xml:0
+#: code:addons/pos_margin/static/src/xml/pos_margin.xml
 #, python-format
 msgid "Margin:"
 msgstr "Marža:"

@@ -35,7 +35,6 @@ msgstr "If set, this logo will be used instead of the company's one"
 
 #. module: pos_config_logo
 #: model:ir.model.fields,field_description:pos_config_logo.field_pos_config__logo
-#: model:ir.model.fields,field_description:pos_config_logo.field_res_config_settings__pos_config_logo
 msgid "Logo"
 msgstr "Logo"
 

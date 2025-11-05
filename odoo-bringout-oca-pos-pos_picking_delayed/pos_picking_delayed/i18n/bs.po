@@ -15,12 +15,14 @@ msgstr ""
 
 #. module: pos_picking_delayed
 #: model:ir.model.fields,help:pos_picking_delayed.field_pos_config__picking_creation_delayed
-#: model:ir.model.fields,help:pos_picking_delayed.field_res_config_settings__picking_creation_delayed
 msgid ""
 "Check this box if you want to delay the creation of the picking created by "
 "the PoS orders. If checked, the pickings will be created later, by a cron "
 "task."
 msgstr ""
+"Označite ovu opciju ako želite odgoditi kreiranje preuzimanja kreiranog "
+"narudžbama prodajnog mjesta. Ako je označeno, preuzimanja će biti kreirana "
+"kasnije, cron zadatkom."
 
 #. module: pos_picking_delayed
 #: model:ir.model,name:pos_picking_delayed.model_res_config_settings
@@ -39,7 +41,6 @@ msgstr "Ima odgođeno preuzimanje"
 
 #. module: pos_picking_delayed
 #: model:ir.model.fields,field_description:pos_picking_delayed.field_pos_config__picking_creation_delayed
-#: model:ir.model.fields,field_description:pos_picking_delayed.field_res_config_settings__picking_creation_delayed
 msgid "Picking Creation Delayed"
 msgstr "Kreiranje preuzimanja odgođeno"
 
@@ -59,3 +60,5 @@ msgid ""
 "This checkbox is checked if the generation of the picking has been delayed. "
 "The picking will be created by cron."
 msgstr ""
+"Ova opcija je označena ako je generiranje preuzimanja odgođeno. Preuzimanje "
+"će biti kreirano cron-om."

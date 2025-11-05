@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: pos_financial_risk
 #. odoo-javascript
-#: code:addons/pos_financial_risk/static/src/xml/PaymentScreen.xml:0
+#: code:addons/pos_financial_risk/static/src/xml/PaymentScreen.xml
 #, python-format
 msgid "(remainder"
 msgstr "(remainder"
@@ -27,7 +27,7 @@ msgstr "<span class=\"o_form_label\">Credit Limit Restricted</span>"
 
 #. module: pos_financial_risk
 #. odoo-javascript
-#: code:addons/pos_financial_risk/static/src/xml/PaymentScreen.xml:0
+#: code:addons/pos_financial_risk/static/src/xml/PaymentScreen.xml
 #, python-format
 msgid "Blocked due to credit limit reached"
 msgstr "Blocked due to credit limit reached"
@@ -39,8 +39,6 @@ msgstr "Postavke"
 
 #. module: pos_financial_risk
 #: model:ir.model.fields,field_description:pos_financial_risk.field_pos_config__payment_credit_limit_restricted_ids
-#: model:ir.model.fields,field_description:pos_financial_risk.field_pos_payment_method__credit_limit_restricted
-#: model:ir.model.fields,field_description:pos_financial_risk.field_res_config_settings__pos_payment_credit_limit_restricted_ids
 msgid "Credit Limit Restricted"
 msgstr "Credit Limit Restricted"
 

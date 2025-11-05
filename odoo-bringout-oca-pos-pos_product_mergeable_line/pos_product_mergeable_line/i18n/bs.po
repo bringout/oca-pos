@@ -15,15 +15,15 @@ msgstr ""
 
 #. module: pos_product_mergeable_line
 #: model:ir.model.fields,help:pos_product_mergeable_line.field_product_product__pos_mergeable_line
-#: model:ir.model.fields,help:pos_product_mergeable_line.field_product_template__pos_mergeable_line
 msgid ""
 "If unchecked, the product will never be merged with a previous line, in the "
 "Point of sale."
 msgstr ""
+"Ako nije označeno, proizvod se neće nikad spojiti sa prethodnom linijom u "
+"prodajnom mjestu."
 
 #. module: pos_product_mergeable_line
 #: model:ir.model.fields,field_description:pos_product_mergeable_line.field_product_product__pos_mergeable_line
-#: model:ir.model.fields,field_description:pos_product_mergeable_line.field_product_template__pos_mergeable_line
 msgid "Mergeable Line"
 msgstr "Linija za spajanje"
 

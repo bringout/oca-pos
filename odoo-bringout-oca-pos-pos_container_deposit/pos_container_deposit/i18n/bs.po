@@ -20,9 +20,9 @@ msgstr "Bottle deposit .25"
 
 #. module: pos_container_deposit
 #: model:ir.model.fields,help:pos_container_deposit.field_product_product__is_deposit
-#: model:ir.model.fields,help:pos_container_deposit.field_product_template__is_deposit
 msgid "Check this if this product is a container for which you charge deposit"
-msgstr "Check this if this product is a container for which you charge deposit"
+msgstr ""
+"Check this if this product is a container for which you charge deposit"
 
 #. module: pos_container_deposit
 #: model:ir.model.fields,field_description:pos_container_deposit.field_product_product__deposit_product_id
@@ -31,7 +31,7 @@ msgstr "Polog"
 
 #. module: pos_container_deposit
 #. odoo-javascript
-#: code:addons/pos_container_deposit/static/src/js/models.js:0
+#: code:addons/pos_container_deposit/static/src/js/models.js
 #, python-format
 msgid "Deposit not available"
 msgstr "Deposit not available"
@@ -48,15 +48,15 @@ msgstr "Generic sugar liquid"
 
 #. module: pos_container_deposit
 #: model:ir.model.fields,help:pos_container_deposit.field_product_product__deposit_product_id
-#: model:ir.model.fields,help:pos_container_deposit.field_product_template__deposit_product_id
 msgid ""
 "If this product is packaged in a container for which you charge deposit, add"
 " a product here that stands for the deposit"
 msgstr ""
+"If this product is packaged in a container for which you charge deposit, add"
+" a product here that stands for the deposit"
 
 #. module: pos_container_deposit
 #: model:ir.model.fields,field_description:pos_container_deposit.field_product_product__is_deposit
-#: model:ir.model.fields,field_description:pos_container_deposit.field_product_template__is_deposit
 msgid "Is Deposit"
 msgstr "Is Deposit"
 
@@ -77,9 +77,11 @@ msgstr "Varijanta proizvoda"
 
 #. module: pos_container_deposit
 #. odoo-javascript
-#: code:addons/pos_container_deposit/static/src/js/models.js:0
+#: code:addons/pos_container_deposit/static/src/js/models.js
 #, python-format
 msgid ""
 "The product %s is configured as having a deposit but the deposit product %s "
 "is not available in POS."
 msgstr ""
+"The product %s is configured as having a deposit but the deposit product %s "
+"is not available in POS."

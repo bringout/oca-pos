@@ -15,26 +15,24 @@ msgstr ""
 
 #. module: pos_customer_comment
 #: model:ir.model.fields,field_description:pos_customer_comment.field_res_partner__pos_comment
-#: model:ir.model.fields,field_description:pos_customer_comment.field_res_users__pos_comment
-#: model_terms:ir.ui.view,arch_db:pos_customer_comment.view_res_partner_form
 msgid "Cashier Comment"
 msgstr "Cashier Comment"
 
 #. module: pos_customer_comment
 #. odoo-javascript
-#: code:addons/pos_customer_comment/static/src/xml/PartnerDetailsEdit.xml:0
-#: code:addons/pos_customer_comment/static/src/xml/PartnerDetailsEdit.xml:0
+#: code:addons/pos_customer_comment/static/src/xml/PartnerDetailsEdit.xml
 #, python-format
 msgid "Comment"
 msgstr "Komentar"
 
 #. module: pos_customer_comment
 #: model:ir.model.fields,help:pos_customer_comment.field_res_partner__pos_comment
-#: model:ir.model.fields,help:pos_customer_comment.field_res_users__pos_comment
 msgid ""
 "Comment that will be visible and editable in the Point of Sale for the  "
 "cashiers"
 msgstr ""
+"Comment that will be visible and editable in the Point of Sale for the "
+"cashiers"
 
 #. module: pos_customer_comment
 #: model_terms:ir.ui.view,arch_db:pos_customer_comment.view_res_partner_form
@@ -42,6 +40,8 @@ msgid ""
 "Comment that will be visible and editable in the Point of Sale for the "
 "cashiers"
 msgstr ""
+"Comment that will be visible and editable in the Point of Sale for the "
+"cashiers"
 
 #. module: pos_customer_comment
 #: model:ir.model,name:pos_customer_comment.model_res_partner
@@ -50,8 +50,7 @@ msgstr "Kontakt"
 
 #. module: pos_customer_comment
 #. odoo-javascript
-#: code:addons/pos_customer_comment/static/src/xml/PartnerLine.xml:0
-#: code:addons/pos_customer_comment/static/src/xml/PartnerLine.xml:0
+#: code:addons/pos_customer_comment/static/src/xml/PartnerLine.xml
 #, python-format
 msgid "Has PoS Comment"
 msgstr "Has PoS Comment"

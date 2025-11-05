@@ -15,7 +15,6 @@ msgstr ""
 
 #. module: pos_payment_description
 #: model_terms:ir.ui.view,arch_db:pos_payment_description.view_pos_order_search
-#: model_terms:ir.ui.view,arch_db:pos_payment_description.view_pos_order_tree
 msgid "Payments"
 msgstr "Plaćanja"
 

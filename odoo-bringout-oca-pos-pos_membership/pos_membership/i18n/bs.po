@@ -20,21 +20,20 @@ msgstr "Kontakt"
 
 #. module: pos_membership
 #. odoo-javascript
-#: code:addons/pos_membership/static/src/js/PaymentScreen.js:0
+#: code:addons/pos_membership/static/src/js/PaymentScreen.js
 #, python-format
 msgid "Invoice Required"
 msgstr "Invoice Required"
 
 #. module: pos_membership
 #. odoo-javascript
-#: code:addons/pos_membership/static/src/xml/PartnerDetailsEdit.xml:0
+#: code:addons/pos_membership/static/src/xml/PartnerDetailsEdit.xml
 #, python-format
 msgid "Membership State"
 msgstr "Država članstva"
 
 #. module: pos_membership
 #: model:ir.model.fields,field_description:pos_membership.field_res_partner__membership_state_text
-#: model:ir.model.fields,field_description:pos_membership.field_res_users__membership_state_text
 msgid "Membership State Text"
 msgstr "Membership State Text"
 
@@ -45,15 +44,16 @@ msgstr "Sesija POS-a"
 
 #. module: pos_membership
 #: model:ir.model.fields,help:pos_membership.field_res_partner__membership_state_text
-#: model:ir.model.fields,help:pos_membership.field_res_users__membership_state_text
 msgid ""
 "Technical field used to display the label of the field 'membership_state' in"
 " the Front End Point of sale UI"
 msgstr ""
+"Technical field used to display the label of the field 'membership_state' in"
+" the Front End Point of sale UI"
 
 #. module: pos_membership
 #. odoo-javascript
-#: code:addons/pos_membership/static/src/js/PaymentScreen.js:0
+#: code:addons/pos_membership/static/src/js/PaymentScreen.js
 #, python-format
 msgid "You should create an invoice if you sell membership products."
 msgstr "You should create an invoice if you sell membership products."

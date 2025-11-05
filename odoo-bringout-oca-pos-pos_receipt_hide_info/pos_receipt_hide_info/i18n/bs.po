@@ -20,19 +20,16 @@ msgstr "Postavke"
 
 #. module: pos_receipt_hide_info
 #: model:ir.model.fields,field_description:pos_receipt_hide_info.field_pos_config__hide_company_email
-#: model:ir.model.fields,field_description:pos_receipt_hide_info.field_res_config_settings__pos_hide_company_email
 msgid "Hide Company Email in POS receipt?"
 msgstr "Sakrij email kompanije na računu prodajnog mjesta?"
 
 #. module: pos_receipt_hide_info
 #: model:ir.model.fields,field_description:pos_receipt_hide_info.field_pos_config__hide_company_phone
-#: model:ir.model.fields,field_description:pos_receipt_hide_info.field_res_config_settings__pos_hide_company_phone
 msgid "Hide Company Phone in POS receipt?"
 msgstr "Sakrij telefon kompanije na računu prodajnog mjesta?"
 
 #. module: pos_receipt_hide_info
 #: model:ir.model.fields,field_description:pos_receipt_hide_info.field_pos_config__hide_user
-#: model:ir.model.fields,field_description:pos_receipt_hide_info.field_res_config_settings__pos_hide_user
 msgid "Hide User in POS receipt?"
 msgstr "Sakrij korisnika na računu prodajnog mjesta?"
 

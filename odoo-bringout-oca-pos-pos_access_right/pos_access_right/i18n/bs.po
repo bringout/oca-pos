@@ -30,7 +30,6 @@ msgstr "Prodajno mjesto - Dozvoli promjenu jedinične cijene"
 
 #. module: pos_access_right
 #: model:ir.model.fields,field_description:pos_access_right.field_pos_config__group_delete_order_id
-#: model:res.groups,name:pos_access_right.group_delete_order
 msgid "Point of Sale - Delete Order"
 msgstr "Prodajno mjesto - Obriši narudžbu"
 
@@ -41,7 +40,6 @@ msgstr "Prodajno mjesto - Popust"
 
 #. module: pos_access_right
 #: model:ir.model.fields,field_description:pos_access_right.field_pos_config__group_multi_order_id
-#: model:res.groups,name:pos_access_right.group_multi_order
 msgid "Point of Sale - Many Orders"
 msgstr "Prodajno mjesto - Više narudžbi"
 
@@ -52,7 +50,6 @@ msgstr "Prodajno mjesto - Negativna količina"
 
 #. module: pos_access_right
 #: model:ir.model.fields,field_description:pos_access_right.field_pos_config__group_payment_id
-#: model:res.groups,name:pos_access_right.group_payment
 msgid "Point of Sale - Payment"
 msgstr "Prodajno mjesto - Plaćanje"
 
@@ -77,6 +74,8 @@ msgid ""
 "This field is there to pass the id of the 'PoS - Allow Discount' Group to "
 "the Point of Sale Frontend."
 msgstr ""
+"Ovo polje služi za prosljeđivanje ID-a grupe 'Prodajno mjesto - Dozvoli "
+"popust' na sučelje prodajnog mjesta."
 
 #. module: pos_access_right
 #: model:ir.model.fields,help:pos_access_right.field_pos_config__group_negative_qty_id
@@ -84,6 +83,8 @@ msgid ""
 "This field is there to pass the id of the 'PoS - Allow Negative Quantity' "
 "Group to the Point of Sale Frontend."
 msgstr ""
+"Ovo polje služi za prosljeđivanje ID-a grupe 'Prodajno mjesto - Dozvoli "
+"negativnu količinu' na sučelje prodajnog mjesta."
 
 #. module: pos_access_right
 #: model:ir.model.fields,help:pos_access_right.field_pos_config__group_change_unit_price_id
@@ -91,6 +92,8 @@ msgid ""
 "This field is there to pass the id of the 'PoS - Allow Unit Price Change' "
 "Group to the Point of Sale Frontend."
 msgstr ""
+"Ovo polje služi za prosljeđivanje ID-a grupe 'Prodajno mjesto - Dozvoli "
+"promjenu jedinične cijene' na sučelje prodajnog mjesta."
 
 #. module: pos_access_right
 #: model:ir.model.fields,help:pos_access_right.field_pos_config__group_delete_order_id
@@ -98,6 +101,8 @@ msgid ""
 "This field is there to pass the id of the 'PoS - Delete Order' Group to the "
 "Point of Sale Frontend."
 msgstr ""
+"Ovo polje služi za prosljeđivanje ID-a grupe 'Prodajno mjesto - Obriši "
+"narudžbu' na sučelje prodajnog mjesta."
 
 #. module: pos_access_right
 #: model:ir.model.fields,help:pos_access_right.field_pos_config__group_multi_order_id
@@ -105,6 +110,8 @@ msgid ""
 "This field is there to pass the id of the 'PoS - Many Orders Group to the "
 "Point of Sale Frontend."
 msgstr ""
+"Ovo polje služi za prosljeđivanje ID-a grupe 'Prodajno mjesto - Više "
+"narudžbi' na sučelje prodajnog mjesta."
 
 #. module: pos_access_right
 #: model:ir.model.fields,help:pos_access_right.field_pos_config__group_payment_id
@@ -112,3 +119,5 @@ msgid ""
 "This field is there to pass the id of the 'PoS - Payment' Group to the Point"
 " of Sale Frontend."
 msgstr ""
+"Ovo polje služi za prosljeđivanje ID-a grupe 'Prodajno mjesto - Plaćanje' na"
+" sučelje prodajnog mjesta."

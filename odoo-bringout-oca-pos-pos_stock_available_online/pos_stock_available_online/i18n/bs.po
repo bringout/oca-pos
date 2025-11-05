@@ -15,8 +15,6 @@ msgstr ""
 
 #. module: pos_stock_available_online
 #: model:ir.model.fields,field_description:pos_stock_available_online.field_pos_config__additional_warehouse_ids
-#: model:ir.model.fields,field_description:pos_stock_available_online.field_res_config_settings__pos_additional_warehouse_ids
-#: model_terms:ir.ui.view,arch_db:pos_stock_available_online.res_config_settings_view_form
 msgid "Additional Warehouses"
 msgstr "Dodatno Skladišta"
 
@@ -27,8 +25,6 @@ msgstr "Postavke"
 
 #. module: pos_stock_available_online
 #: model:ir.model.fields,field_description:pos_stock_available_online.field_pos_config__display_product_quantity
-#: model:ir.model.fields,field_description:pos_stock_available_online.field_res_config_settings__pos_display_product_quantity
-#: model_terms:ir.ui.view,arch_db:pos_stock_available_online.res_config_settings_view_form
 msgid "Display Product Quantity"
 msgstr "Prikaži Proizvod Količina"
 
@@ -39,27 +35,26 @@ msgstr "Prikaži količinu dostupnih proizvoda u POS sistemu za"
 
 #. module: pos_stock_available_online
 #: model:ir.model.fields,help:pos_stock_available_online.field_pos_config__additional_warehouse_ids
-#: model:ir.model.fields,help:pos_stock_available_online.field_res_config_settings__pos_additional_warehouse_ids
 msgid ""
 "For the selected warehouses will be displayed quantity of available products"
 " in the POS"
 msgstr ""
+"For the selected Skladišta will be displayed Količina of Dostupan Proizvodi "
+"in the POS"
 
 #. module: pos_stock_available_online
 #: model:ir.model.fields,field_description:pos_stock_available_online.field_pos_config__main_warehouse_id
-#: model:ir.model.fields,field_description:pos_stock_available_online.field_res_config_settings__pos_main_warehouse_id
 msgid "Main Warehouse"
 msgstr "Main Skladište"
 
 #. module: pos_stock_available_online
 #: model_terms:ir.ui.view,arch_db:pos_stock_available_online.res_config_settings_view_form
 msgid "Mark quantity red if below or equal this value."
-msgstr "Označi količinu crvenom bojom ako je ispod ili jednaka ovoj vrijednosti."
+msgstr ""
+"Označi količinu crvenom bojom ako je ispod ili jednaka ovoj vrijednosti."
 
 #. module: pos_stock_available_online
 #: model:ir.model.fields,field_description:pos_stock_available_online.field_pos_config__minimum_product_quantity_alert
-#: model:ir.model.fields,field_description:pos_stock_available_online.field_res_config_settings__pos_minimum_product_quantity_alert
-#: model_terms:ir.ui.view,arch_db:pos_stock_available_online.res_config_settings_view_form
 msgid "Minimum Product Quantity Alert"
 msgstr "Minimum Proizvod Količina Alert"
 
@@ -100,7 +95,7 @@ msgstr "Mješavina POS obavještavača zaliha"
 
 #. module: pos_stock_available_online
 #. odoo-javascript
-#: code:addons/pos_stock_available_online/static/src/xml/Screens/ProductScreen/ProductItem.xml:0
+#: code:addons/pos_stock_available_online/static/src/xml/Screens/ProductScreen/ProductItem.xml
 #, python-format
 msgid "Total"
 msgstr "Ukupno"

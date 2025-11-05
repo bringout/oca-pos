@@ -15,70 +15,75 @@ msgstr ""
 
 #. module: pos_lot_barcode
 #. odoo-javascript
-#: code:addons/pos_lot_barcode/static/src/js/Popups/ErrorMultiLotBarcodePopup.js:0
+#: code:addons/pos_lot_barcode/static/src/js/Popups/ErrorMultiLotBarcodePopup.js
 #, python-format
 msgid "Cancel"
 msgstr "Otkaži"
 
 #. module: pos_lot_barcode
 #. odoo-javascript
-#: code:addons/pos_lot_barcode/static/src/js/Popups/ErrorMultiLotBarcodePopup.js:0
+#: code:addons/pos_lot_barcode/static/src/js/Popups/ErrorMultiLotBarcodePopup.js
 #, python-format
 msgid "Error"
 msgstr "Greška"
 
 #. module: pos_lot_barcode
 #. odoo-javascript
-#: code:addons/pos_lot_barcode/static/src/js/Screens/ProductScreen.js:0
+#: code:addons/pos_lot_barcode/static/src/js/Screens/ProductScreen.js
 #, python-format
 msgid ""
 "Lot is not loaded. Tried loading the lot from the server but there is a "
 "network error."
 msgstr ""
+"Lot is not loaded. Tried loading the lot from the server but there is a "
+"network error."
 
 #. module: pos_lot_barcode
 #. odoo-javascript
-#: code:addons/pos_lot_barcode/static/src/js/Popups/EditListPopup.js:0
+#: code:addons/pos_lot_barcode/static/src/js/Popups/EditListPopup.js
 #, python-format
 msgid "Lot/Serial Number(s) Required"
 msgstr "Lot/Serijski broj je neophodan"
 
 #. module: pos_lot_barcode
 #. odoo-javascript
-#: code:addons/pos_lot_barcode/static/src/xml/Popups/ErrorMultiLotBarcodePopup.xml:0
+#: code:addons/pos_lot_barcode/static/src/xml/Popups/ErrorMultiLotBarcodePopup.xml
 #, python-format
 msgid "Multiple Products Matching Barcode"
 msgstr "Multiple Products Matching Barcode"
 
 #. module: pos_lot_barcode
 #. odoo-javascript
-#: code:addons/pos_lot_barcode/static/src/js/Screens/ProductScreen.js:0
+#: code:addons/pos_lot_barcode/static/src/js/Screens/ProductScreen.js
 #, python-format
 msgid "Network Error"
 msgstr "Pogreška mreže"
 
 #. module: pos_lot_barcode
 #. odoo-javascript
-#: code:addons/pos_lot_barcode/static/src/js/Popups/ErrorMultiLotBarcodePopup.js:0
-#: code:addons/pos_lot_barcode/static/src/xml/Popups/ErrorMultiLotBarcodePopup.xml:0
+#: code:addons/pos_lot_barcode/static/src/js/Popups/ErrorMultiLotBarcodePopup.js
 #, python-format
 msgid "Ok"
 msgstr "Uredu"
 
 #. module: pos_lot_barcode
 #. odoo-javascript
-#: code:addons/pos_lot_barcode/static/src/js/Popups/ErrorMultiLotBarcodePopup.js:0
+#: code:addons/pos_lot_barcode/static/src/js/Popups/ErrorMultiLotBarcodePopup.js
 #, python-format
 msgid ""
 "The Point of Sale can not process the scanned barcode, as it matches "
 "multiple products:"
 msgstr ""
+"The Point of Sale can not process the scanned barcode, as it matches "
+"multiple products:"
 
 #. module: pos_lot_barcode
 #. odoo-javascript
-#: code:addons/pos_lot_barcode/static/src/js/Screens/ProductScreen.js:0
+#: code:addons/pos_lot_barcode/static/src/js/Screens/ProductScreen.js
 #, python-format
 msgid ""
 "The Point of Sale could not find any product, lot, client, employee or "
 "action associated with the scanned barcode."
 msgstr ""
+"The Point of Sale could not find any product, lot, client, employee or "
+"action associated with the scanned barcode."

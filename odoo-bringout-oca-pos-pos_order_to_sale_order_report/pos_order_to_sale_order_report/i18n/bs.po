@@ -30,13 +30,12 @@ msgstr "Kreiraj prodajne narudžbe"
 
 #. module: pos_order_to_sale_order_report
 #: model:ir.model.fields,field_description:pos_order_to_sale_order_report.field_pos_config__iface_sale_order_report_id
-#: model:ir.model.fields,field_description:pos_order_to_sale_order_report.field_res_config_settings__pos_iface_sale_order_report_id
 msgid "Iface Sale Order Report"
 msgstr "Prodajno mjesto izvještaj prodajne narudžbe"
 
 #. module: pos_order_to_sale_order_report
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_report/static/src/js/Popups/CreateOrderPopup.esm.js:0
+#: code:addons/pos_order_to_sale_order_report/static/src/js/Popups/CreateOrderPopup.esm.js
 #, python-format
 msgid "Network Error"
 msgstr "Pogreška mreže"
@@ -53,7 +52,7 @@ msgstr "Ovaj izvještaj će biti preuzet nakon kreiranja prodajne narudžbe."
 
 #. module: pos_order_to_sale_order_report
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_report/static/src/js/Popups/CreateOrderPopup.esm.js:0
+#: code:addons/pos_order_to_sale_order_report/static/src/js/Popups/CreateOrderPopup.esm.js
 #, python-format
 msgid "Unable to download report."
 msgstr "Nije moguće preuzeti izvještaj."

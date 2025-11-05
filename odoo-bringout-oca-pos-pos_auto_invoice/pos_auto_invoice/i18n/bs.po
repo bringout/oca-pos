@@ -20,7 +20,6 @@ msgstr "Postavke"
 
 #. module: pos_auto_invoice
 #: model:ir.model.fields,field_description:pos_auto_invoice.field_pos_config__invoice_by_default
-#: model:ir.model.fields,field_description:pos_auto_invoice.field_res_config_settings__pos_invoice_by_default
 msgid "Invoice By Default"
 msgstr "Invoice By Default"
 

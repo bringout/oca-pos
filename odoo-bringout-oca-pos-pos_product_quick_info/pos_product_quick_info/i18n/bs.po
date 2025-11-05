@@ -20,7 +20,6 @@ msgstr "Postavke"
 
 #. module: pos_product_quick_info
 #: model:ir.model.fields,field_description:pos_product_quick_info.field_pos_config__display_quick_product_info
-#: model:ir.model.fields,field_description:pos_product_quick_info.field_res_config_settings__pos_display_quick_product_info
 msgid "Display Quick Product Info"
 msgstr "Prikaži brze informacije o proizvodu"
 
@@ -31,8 +30,7 @@ msgstr "Prikaži informacije o proizvodu jednim klikom"
 
 #. module: pos_product_quick_info
 #. odoo-javascript
-#: code:addons/pos_product_quick_info/static/src/xml/Screens/ProductScreen/ProductItem.xml:0
-#: code:addons/pos_product_quick_info/static/src/xml/Screens/ProductScreen/ProductItem.xml:0
+#: code:addons/pos_product_quick_info/static/src/xml/Screens/ProductScreen/ProductItem.xml
 #, python-format
 msgid "Info"
 msgstr "Informacija"

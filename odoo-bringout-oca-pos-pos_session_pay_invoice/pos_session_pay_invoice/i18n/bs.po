@@ -19,6 +19,8 @@ msgid ""
 "<span class=\"o_stat_text\">Get Payment</span>\n"
 "                        <span class=\"o_stat_text\">from Invoice</span>"
 msgstr ""
+"<span class=\"o_stat_text\">Uzmi plaćanje</span>\n"
+"                        <span class=\"o_stat_text\">iz fakture</span>"
 
 #. module: pos_session_pay_invoice
 #: model_terms:ir.ui.view,arch_db:pos_session_pay_invoice.view_pos_session_form
@@ -26,6 +28,8 @@ msgid ""
 "<span class=\"o_stat_text\">Pay Supplier</span>\n"
 "                        <span class=\"o_stat_text\">Invoice</span>"
 msgstr ""
+"<span class=\"o_stat_text\">Pregled</span>\n"
+"                        <span class=\"o_stat_text\">plaćanja</span>"
 
 #. module: pos_session_pay_invoice
 #: model_terms:ir.ui.view,arch_db:pos_session_pay_invoice.view_pos_session_form
@@ -33,6 +37,8 @@ msgid ""
 "<span class=\"o_stat_text\">Pay</span>\n"
 "                        <span class=\"o_stat_text\">Refund</span>"
 msgstr ""
+"<span class=\"o_stat_text\">Plati</span>\n"
+"                        <span class=\"o_stat_text\">Povrat</span>"
 
 #. module: pos_session_pay_invoice
 #: model:ir.model,name:pos_session_pay_invoice.model_cash_pay_invoice
@@ -76,9 +82,11 @@ msgstr "Sažetak"
 
 #. module: pos_session_pay_invoice
 #. odoo-python
-#: code:addons/pos_session_pay_invoice/models/pos_session.py:0
+#: code:addons/pos_session_pay_invoice/models/pos_session.py
 #, python-format
 msgid ""
 "You can only pay invoices in an opened session. Please refresh the window "
 "and try again."
 msgstr ""
+"You can only pay Računi in an opened session. Please refresh the window and "
+"try again."

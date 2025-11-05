@@ -25,21 +25,21 @@ msgstr "Popust"
 
 #. module: pos_loyalty_redeem_payment
 #. odoo-javascript
-#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js:0
+#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js
 #, python-format
 msgid "Enter Code"
 msgstr "Enter Code"
 
 #. module: pos_loyalty_redeem_payment
 #. odoo-javascript
-#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js:0
+#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js
 #, python-format
 msgid "Error"
 msgstr "Greška"
 
 #. module: pos_loyalty_redeem_payment
 #. odoo-javascript
-#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js:0
+#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js
 #, python-format
 msgid "Gift Card"
 msgstr "Gift Card"
@@ -70,6 +70,8 @@ msgid ""
 "Payment Method: The Voucher/Gift Card is used as a payment method in PoS orders.\n"
 "Discount: The Voucher/Gift Card is used as a discount."
 msgstr ""
+"Payment Method: The Voucher/Gift Card is used as a payment method in PoS orders.\n"
+"Discount: The Voucher/Gift Card is used as a discount."
 
 #. module: pos_loyalty_redeem_payment
 #: model:ir.model.fields,help:pos_loyalty_redeem_payment.field_loyalty_program__pos_payment_method_ids
@@ -113,19 +115,21 @@ msgstr "Redemption Method"
 
 #. module: pos_loyalty_redeem_payment
 #. odoo-javascript
-#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js:0
+#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js
 #, python-format
 msgid "Set amount to redeem, up to %s"
 msgstr "Set amount to redeem, up to %s"
 
 #. module: pos_loyalty_redeem_payment
 #. odoo-javascript
-#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js:0
+#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js
 #, python-format
 msgid ""
 "That coupon code has already been scanned and activated. Please, process "
 "pending orders."
 msgstr ""
+"That coupon code has already been scanned and activated. Please, process "
+"pending orders."
 
 #. module: pos_loyalty_redeem_payment
 #: model:ir.model.fields,help:pos_loyalty_redeem_payment.field_pos_payment__coupon_id
@@ -134,14 +138,14 @@ msgstr "The coupon used as payment method."
 
 #. module: pos_loyalty_redeem_payment
 #. odoo-javascript
-#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js:0
+#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js
 #, python-format
 msgid "There is already an electronic payment in progress."
 msgstr "Već je u tijeku elektroničko plaćanje."
 
 #. module: pos_loyalty_redeem_payment
 #. odoo-python
-#: code:addons/pos_loyalty_redeem_payment/models/pos_config.py:0
+#: code:addons/pos_loyalty_redeem_payment/models/pos_config.py
 #, python-format
 msgid "This coupon has to be redeemed from payment mode (%s)."
 msgstr "This coupon has to be redeemed from payment mode (%s)."
@@ -153,8 +157,9 @@ msgstr "Used for loyalty program"
 
 #. module: pos_loyalty_redeem_payment
 #. odoo-javascript
-#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js:0
+#: code:addons/pos_loyalty_redeem_payment/static/src/js/PaymentScreen.esm.js
 #, python-format
 msgid ""
 "You tried to redeem %s, but maximum for this gift card in this order is %s"
 msgstr ""
+"You tried to redeem %s, but maximum for this gift card in this order is %s"

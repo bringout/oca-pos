@@ -35,20 +35,17 @@ msgstr "Sesija POS-a"
 
 #. module: pos_receipt_replace_user_by_trigram
 #: model:ir.model.fields,field_description:pos_receipt_replace_user_by_trigram.field_res_partner__pos_trigram
-#: model:ir.model.fields,field_description:pos_receipt_replace_user_by_trigram.field_res_users__pos_trigram
 msgid "Pos Trigram"
 msgstr "Trigram prodajnog mjesta"
 
 #. module: pos_receipt_replace_user_by_trigram
 #: model:ir.model.fields,field_description:pos_receipt_replace_user_by_trigram.field_pos_config__replace_user_by_trigram
-#: model:ir.model.fields,field_description:pos_receipt_replace_user_by_trigram.field_res_config_settings__pos_replace_user_by_trigram
 msgid "Replace User by trigram in POS receipt"
 msgstr "Zamijeni korisnika trigram-om na računu prodajnog mjesta"
 
 #. module: pos_receipt_replace_user_by_trigram
 #. odoo-javascript
-#: code:addons/pos_receipt_replace_user_by_trigram/static/src/xml/order_receipt.xml:0
-#: code:addons/pos_receipt_replace_user_by_trigram/static/src/xml/order_receipt.xml:0
+#: code:addons/pos_receipt_replace_user_by_trigram/static/src/xml/order_receipt.xml
 #, python-format
 msgid "Served by"
 msgstr "Poslužio"

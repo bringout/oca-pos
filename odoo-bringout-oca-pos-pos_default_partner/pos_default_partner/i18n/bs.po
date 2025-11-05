@@ -20,7 +20,6 @@ msgstr "Postavke"
 
 #. module: pos_default_partner
 #: model:ir.model.fields,field_description:pos_default_partner.field_pos_config__default_partner_id
-#: model:ir.model.fields,field_description:pos_default_partner.field_res_config_settings__pos_default_partner_id
 msgid "Default Customer"
 msgstr "Default Customer"
 

@@ -15,7 +15,6 @@ msgstr ""
 
 #. module: pos_global_discount_in_line
 #: model:ir.model.fields,field_description:pos_global_discount_in_line.field_pos_config__global_discount_in_line
-#: model:ir.model.fields,field_description:pos_global_discount_in_line.field_res_config_settings__pos_global_discount_in_line
 msgid "Add Discount in Line"
 msgstr "Add Discount in Line"
 
@@ -26,7 +25,7 @@ msgstr "Postavke"
 
 #. module: pos_global_discount_in_line
 #. odoo-javascript
-#: code:addons/pos_global_discount_in_line/static/src/js/GlobalLineDiscount.js:0
+#: code:addons/pos_global_discount_in_line/static/src/js/GlobalLineDiscount.js
 #, python-format
 msgid "Discount Percentage"
 msgstr "Procenat popusta"

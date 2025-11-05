@@ -20,7 +20,7 @@ msgstr "Sesija POS-a"
 
 #. module: pos_ticket_extra_company_info_l10n_fr
 #. odoo-javascript
-#: code:addons/pos_ticket_extra_company_info_l10n_fr/static/src/xml/OrderReceipt.xml:0
+#: code:addons/pos_ticket_extra_company_info_l10n_fr/static/src/xml/OrderReceipt.xml
 #, python-format
 msgid "SIRET:"
 msgstr "SIRET:"

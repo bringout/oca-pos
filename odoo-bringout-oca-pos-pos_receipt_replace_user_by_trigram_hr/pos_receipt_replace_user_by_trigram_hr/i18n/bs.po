@@ -25,7 +25,5 @@ msgstr "Sesija POS-a"
 
 #. module: pos_receipt_replace_user_by_trigram_hr
 #: model:ir.model.fields,field_description:pos_receipt_replace_user_by_trigram_hr.field_hr_employee__pos_trigram
-#: model:ir.model.fields,field_description:pos_receipt_replace_user_by_trigram_hr.field_hr_employee_base__pos_trigram
-#: model:ir.model.fields,field_description:pos_receipt_replace_user_by_trigram_hr.field_hr_employee_public__pos_trigram
 msgid "Pos Trigram"
 msgstr "Trigram prodajnog mjesta"

@@ -20,7 +20,6 @@ msgstr "Postavke"
 
 #. module: pos_timeout
 #: model:ir.model.fields,help:pos_timeout.field_pos_config__pos_order_timeout
-#: model:ir.model.fields,help:pos_timeout.field_res_config_settings__pos_order_timeout
 msgid ""
 "Defines the value of the client-side timeout for the creation of PoS Order(s) from the POS UI.\n"
 " The value is expressed in seconds, for a single order.\n"
@@ -28,10 +27,14 @@ msgid ""
 " If the call contains more than one order (after a long disconnection period for example, or if the previous call raised the timeout),\n"
 " the effective timeout value applied will be equal to the defined timeout value multiplied by the number of orders.\n"
 msgstr ""
+"Definiše vrijednost vremenskog ograničenja na strani klijenta za kreiranje POS narudžbi iz POS interfejsa.\n"
+" Vrijednost je izražena u sekundama za jednu narudžbu.\n"
+" Ako nije definisana, koristi se podrazumijevana Odoo vrijednost: 30 sekundi.\n"
+" Ako poziv sadrži više narudžbi (na primjer nakon dužeg prekida veze ili ako je prethodni poziv završio greškom zbog isteka vremena),\n"
+" efektivno vremensko ograničenje će biti jednako definisanoj vrijednosti pomnoženoj brojem narudžbi.\n"
 
 #. module: pos_timeout
 #: model:ir.model.fields,field_description:pos_timeout.field_pos_config__pos_order_timeout
-#: model:ir.model.fields,field_description:pos_timeout.field_res_config_settings__pos_order_timeout
 msgid "PoS Order(s) Timeout"
 msgstr "PoS Narudžba(s) Timeout"
 
@@ -43,4 +46,5 @@ msgstr "Postavke prodajnog mjesta"
 #. module: pos_timeout
 #: model_terms:ir.ui.view,arch_db:pos_timeout.res_config_settings_view_form
 msgid "client-side timeout for the creation of PoS Order(s) from the POS UI"
-msgstr "client-side timeout for the creation of PoS Narudžba(s) from the POS UI"
+msgstr ""
+"client-side timeout for the creation of PoS Narudžba(s) from the POS UI"

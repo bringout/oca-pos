@@ -15,17 +15,20 @@ msgstr ""
 
 #. module: pos_discount_all
 #: model:ir.model.fields,help:pos_discount_all.field_product_product__is_discount
-#: model:ir.model.fields,help:pos_discount_all.field_product_template__is_discount
 msgid ""
 "Check this box if you use this product to realize discount on sale. If check"
 " the sale lines will be ignored when computing the amount without discount. "
 "If you use 'Pos Discount' Odoo module, you should check this box for the "
 "product you configured as the 'Discount Product' on your PoS config."
 msgstr ""
+"Check this box if you use this product to realize discount on sale. If check"
+" the sale lines will be ignored when computing the amount without discount. "
+"If you use 'Pos Discount' Odoo module, you should check this box for the "
+"product you configured as the 'Discount Product' on your PoS config."
 
 #. module: pos_discount_all
 #. odoo-javascript
-#: code:addons/pos_discount_all/static/src/xml/OrderSummary.xml:0
+#: code:addons/pos_discount_all/static/src/xml/OrderSummary.xml
 #, python-format
 msgid "Discount Amount:"
 msgstr "Defaultni procenat popusta"
@@ -37,7 +40,6 @@ msgstr "Proizvod popusta"
 
 #. module: pos_discount_all
 #: model:ir.model.fields,field_description:pos_discount_all.field_product_product__is_discount
-#: model:ir.model.fields,field_description:pos_discount_all.field_product_template__is_discount
 msgid "Is a Discount"
 msgstr "Proizvod koji se koristi za modelovanje popusta."
 

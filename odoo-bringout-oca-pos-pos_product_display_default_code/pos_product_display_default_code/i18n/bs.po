@@ -20,15 +20,15 @@ msgstr "Postavke"
 
 #. module: pos_product_display_default_code
 #: model:ir.model.fields,field_description:pos_product_display_default_code.field_pos_config__display_default_code
-#: model:ir.model.fields,field_description:pos_product_display_default_code.field_res_config_settings__pos_display_default_code
-#: model_terms:ir.ui.view,arch_db:pos_product_display_default_code.res_config_settings_default_code_view_form
 msgid "Display Default Code"
 msgstr "Prikaži zadani kod"
 
 #. module: pos_product_display_default_code
 #: model_terms:ir.ui.view,arch_db:pos_product_display_default_code.res_config_settings_default_code_view_form
 msgid "Display products' internal reference in the PoS interface and tickets."
-msgstr "Prikaži unutrašnju referencu proizvoda u interfejsu prodajnog mjesta i računima."
+msgstr ""
+"Prikaži unutrašnju referencu proizvoda u interfejsu prodajnog mjesta i "
+"računima."
 
 #. module: pos_product_display_default_code
 #: model:ir.model,name:pos_product_display_default_code.model_pos_config

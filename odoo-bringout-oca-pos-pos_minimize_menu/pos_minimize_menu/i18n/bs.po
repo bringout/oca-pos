@@ -20,7 +20,6 @@ msgstr "Postavke"
 
 #. module: pos_minimize_menu
 #: model:ir.model.fields,field_description:pos_minimize_menu.field_pos_config__iface_important_buttons
-#: model:ir.model.fields,field_description:pos_minimize_menu.field_res_config_settings__pos_iface_important_buttons
 msgid "Important Buttons"
 msgstr "Važna dugmad"
 
@@ -36,15 +35,18 @@ msgid ""
 "sale screen. Other buttons will be available by clicking on the button "
 "'More...'"
 msgstr ""
+"Postavite tehnička imena dugmića koja će biti prikazana na glavnom ekranu "
+"prodajnog mjesta. Ostala dugmad će biti dostupna klikom na dugme 'Više...'"
 
 #. module: pos_minimize_menu
 #: model:ir.model.fields,help:pos_minimize_menu.field_pos_config__iface_important_buttons
-#: model:ir.model.fields,help:pos_minimize_menu.field_res_config_settings__pos_iface_important_buttons
 msgid ""
 "Set technical names of buttons that will be displayed in the main point of "
 "sale screen. Other buttons will be available by clicking on the button "
 "'More...'."
 msgstr ""
+"Postavite tehnička imena dugmića koja će biti prikazana na glavnom ekranu "
+"prodajnog mjesta. Ostala dugmad će biti dostupna klikom na dugme 'Više...'."
 
 #. module: pos_minimize_menu
 #: model_terms:ir.ui.view,arch_db:pos_minimize_menu.view_res_config_settings_form
