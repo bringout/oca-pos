@@ -33,7 +33,7 @@ msgstr "Otkaži"
 #. module: pos_edit_order_line
 #: model:ir.model,name:pos_edit_order_line.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: pos_edit_order_line
 #. odoo-javascript
@@ -80,7 +80,7 @@ msgstr "Cijena"
 #: code:addons/pos_edit_order_line/static/src/xml/EditOrderPopup.xml
 #, python-format
 msgid "Product"
-msgstr "Proizvod"
+msgstr "Artikal"
 
 #. module: pos_edit_order_line
 #. odoo-javascript

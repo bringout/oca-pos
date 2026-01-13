@@ -21,7 +21,7 @@ msgstr "<span>piksel</span>"
 #. module: pos_screen_element_custom_size
 #: model:ir.model,name:pos_screen_element_custom_size.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: pos_screen_element_custom_size
 #: model_terms:ir.ui.view,arch_db:pos_screen_element_custom_size.res_config_settings_view_form

@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_auto_invoice
 #: model:ir.model,name:pos_auto_invoice.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: pos_auto_invoice
 #: model:ir.model.fields,field_description:pos_auto_invoice.field_pos_config__invoice_by_default

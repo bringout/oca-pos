@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_margin
 #: model:ir.model,name:pos_margin.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: pos_margin
 #: model:ir.model.fields,field_description:pos_margin.field_pos_config__iface_display_margin

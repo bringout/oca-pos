@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_sale_order_print
 #: model:ir.model,name:pos_sale_order_print.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: pos_sale_order_print
 #. odoo-javascript

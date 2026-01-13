@@ -36,7 +36,7 @@ msgstr ""
 #. module: pos_product_label
 #: model:ir.model,name:pos_product_label.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: pos_product_label
 #. odoo-javascript

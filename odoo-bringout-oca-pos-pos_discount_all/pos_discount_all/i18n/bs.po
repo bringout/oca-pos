@@ -51,4 +51,4 @@ msgstr "Sesija POS-a"
 #. module: pos_discount_all
 #: model:ir.model,name:pos_discount_all.model_product_template
 msgid "Product"
-msgstr "Proizvod"
+msgstr "Artikal"

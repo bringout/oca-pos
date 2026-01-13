@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_default_partner
 #: model:ir.model,name:pos_default_partner.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: pos_default_partner
 #: model:ir.model.fields,field_description:pos_default_partner.field_pos_config__default_partner_id

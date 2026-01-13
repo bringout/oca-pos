@@ -21,7 +21,7 @@ msgstr "Sesija POS-a"
 #. module: pos_supplierinfo_search
 #: model:ir.model,name:pos_supplierinfo_search.model_product_template
 msgid "Product"
-msgstr "Proizvod"
+msgstr "Artikal"
 
 #. module: pos_supplierinfo_search
 #: model:ir.model.fields,field_description:pos_supplierinfo_search.field_product_product__supplier_data_json

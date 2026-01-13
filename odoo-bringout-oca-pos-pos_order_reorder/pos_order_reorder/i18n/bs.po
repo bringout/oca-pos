@@ -21,7 +21,7 @@ msgstr "Dozvoli ponovnu narudžbu"
 #. module: pos_order_reorder
 #: model:ir.model,name:pos_order_reorder.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: pos_order_reorder
 #: model_terms:ir.ui.view,arch_db:pos_order_reorder.res_config_settings_view_form

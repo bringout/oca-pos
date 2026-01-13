@@ -68,7 +68,7 @@ msgstr "Sesija POS-a"
 #. module: pos_container_deposit
 #: model:ir.model,name:pos_container_deposit.model_product_template
 msgid "Product"
-msgstr "Proizvod"
+msgstr "Artikal"
 
 #. module: pos_container_deposit
 #: model:ir.model,name:pos_container_deposit.model_product_product

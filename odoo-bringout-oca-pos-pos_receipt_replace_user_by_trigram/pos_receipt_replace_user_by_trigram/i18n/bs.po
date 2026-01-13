@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_receipt_replace_user_by_trigram
 #: model:ir.model,name:pos_receipt_replace_user_by_trigram.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: pos_receipt_replace_user_by_trigram
 #: model:ir.model,name:pos_receipt_replace_user_by_trigram.model_res_partner

@@ -27,7 +27,7 @@ msgstr ""
 #. module: pos_picking_delayed
 #: model:ir.model,name:pos_picking_delayed.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: pos_picking_delayed
 #: model_terms:ir.ui.view,arch_db:pos_picking_delayed.res_config_settings_view_form
