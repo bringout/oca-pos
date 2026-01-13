@@ -67,7 +67,7 @@ msgstr "Sesija POS-a"
 #. module: pos_membership_extension
 #: model:ir.model,name:pos_membership_extension.model_product_template
 msgid "Product"
-msgstr "Artikal"
+msgstr "Proizvod"
 
 #. module: pos_membership_extension
 #: model:ir.model,name:pos_membership_extension.model_product_product

@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_product_display_default_code
 #: model:ir.model,name:pos_product_display_default_code.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_product_display_default_code
 #: model:ir.model.fields,field_description:pos_product_display_default_code.field_pos_config__display_default_code

@@ -25,7 +25,7 @@ msgstr "Potrebno je i ime i prezime kupca"
 #: code:addons/pos_partner_firstname/static/src/xml/pos.xml
 #, python-format
 msgid "Company"
-msgstr "Preduzeće"
+msgstr "Kompanija"
 
 #. module: pos_partner_firstname
 #: model:ir.model,name:pos_partner_firstname.model_res_partner

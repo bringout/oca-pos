@@ -21,7 +21,7 @@ msgstr "Dodatno Skladišta"
 #. module: pos_stock_available_online
 #: model:ir.model,name:pos_stock_available_online.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_stock_available_online
 #: model:ir.model.fields,field_description:pos_stock_available_online.field_pos_config__display_product_quantity

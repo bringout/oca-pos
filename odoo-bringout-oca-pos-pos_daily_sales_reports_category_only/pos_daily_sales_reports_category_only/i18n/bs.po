@@ -21,7 +21,7 @@ msgstr "<strong>Ukupno</strong>"
 #. module: pos_daily_sales_reports_category_only
 #: model:ir.model,name:pos_daily_sales_reports_category_only.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_daily_sales_reports_category_only
 #: model_terms:ir.ui.view,arch_db:pos_daily_sales_reports_category_only.pos_daily_report
@@ -48,7 +48,7 @@ msgstr "Pojedinosti prodajnog mjesta"
 #. module: pos_daily_sales_reports_category_only
 #: model_terms:ir.ui.view,arch_db:pos_daily_sales_reports_category_only.pos_daily_report
 msgid "Product"
-msgstr "Artikal"
+msgstr "Proizvod"
 
 #. module: pos_daily_sales_reports_category_only
 #: model_terms:ir.ui.view,arch_db:pos_daily_sales_reports_category_only.pos_daily_report

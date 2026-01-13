@@ -35,4 +35,4 @@ msgstr "Sesija POS-a"
 #. module: pos_product_mergeable_line
 #: model:ir.model,name:pos_product_mergeable_line.model_product_template
 msgid "Product"
-msgstr "Artikal"
+msgstr "Proizvod"

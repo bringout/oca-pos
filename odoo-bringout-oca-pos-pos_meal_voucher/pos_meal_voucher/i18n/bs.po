@@ -41,7 +41,7 @@ msgstr "Check this box if the product can be paid for by meal vouchers."
 #. module: pos_meal_voucher
 #: model:ir.model,name:pos_meal_voucher.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_meal_voucher
 #: model:ir.model.fields.selection,name:pos_meal_voucher.selection__pos_payment_method__meal_voucher_type__electronic
@@ -201,7 +201,7 @@ msgstr "Sesija POS-a"
 #. module: pos_meal_voucher
 #: model:ir.model,name:pos_meal_voucher.model_product_template
 msgid "Product"
-msgstr "Artikal"
+msgstr "Proizvod"
 
 #. module: pos_meal_voucher
 #: model:ir.model,name:pos_meal_voucher.model_product_category
