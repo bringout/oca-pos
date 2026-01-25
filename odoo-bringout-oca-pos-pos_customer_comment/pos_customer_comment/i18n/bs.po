@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_customer_comment
 #: model:ir.model.fields,field_description:pos_customer_comment.field_res_partner__pos_comment
 msgid "Cashier Comment"
-msgstr "Cashier Comment"
+msgstr "Komentar blagajnika"
 
 #. module: pos_customer_comment
 #. odoo-javascript
@@ -40,8 +40,7 @@ msgid ""
 "Comment that will be visible and editable in the Point of Sale for the "
 "cashiers"
 msgstr ""
-"Comment that will be visible and editable in the Point of Sale for the "
-"cashiers"
+"Komentar koji će biti vidljiv i izmjenjiv u Point of Sale za blagajnike"
 
 #. module: pos_customer_comment
 #: model:ir.model,name:pos_customer_comment.model_res_partner
@@ -53,7 +52,7 @@ msgstr "Kontakt"
 #: code:addons/pos_customer_comment/static/src/xml/PartnerLine.xml
 #, python-format
 msgid "Has PoS Comment"
-msgstr "Has PoS Comment"
+msgstr "Ima PoS komentar"
 
 #. module: pos_customer_comment
 #: model:ir.model,name:pos_customer_comment.model_pos_session
