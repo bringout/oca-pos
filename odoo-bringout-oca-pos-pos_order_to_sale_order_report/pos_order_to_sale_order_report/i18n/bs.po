@@ -35,7 +35,7 @@ msgstr "Prodajno mjesto izvještaj prodajne narudžbe"
 
 #. module: pos_order_to_sale_order_report
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_report/static/src/js/Popups/CreateOrderPopup.esm.js
+#: code:addons/pos_order_to_sale_order_report/static/src/js/Popups/CreateOrderPopup.esm.js:0
 #, python-format
 msgid "Network Error"
 msgstr "Pogreška mreže"
@@ -52,7 +52,7 @@ msgstr "Ovaj izvještaj će biti preuzet nakon kreiranja prodajne narudžbe."
 
 #. module: pos_order_to_sale_order_report
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_report/static/src/js/Popups/CreateOrderPopup.esm.js
+#: code:addons/pos_order_to_sale_order_report/static/src/js/Popups/CreateOrderPopup.esm.js:0
 #, python-format
 msgid "Unable to download report."
 msgstr "Nije moguće preuzeti izvještaj."

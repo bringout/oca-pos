@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: pos_payment_change
 #. odoo-python
-#: code:addons/pos_payment_change/models/pos_order.py
+#: code:addons/pos_payment_change/models/pos_order.py:0
 #, python-format
 msgid " (Refund Order: %(refund_order)s ; Resale Order: %(resale_order)s)"
 msgstr ""
@@ -59,7 +59,7 @@ msgstr "Kreirano"
 
 #. module: pos_payment_change
 #. odoo-python
-#: code:addons/pos_payment_change/wizards/pos_payment_change_wizard.py
+#: code:addons/pos_payment_change/wizards/pos_payment_change_wizard.py:0
 #, python-format
 msgid ""
 "Differences between the two values for the POS Order '%(name)s':\n"
@@ -79,7 +79,7 @@ msgstr ""
 #. module: pos_payment_change
 #: model:ir.model.fields,field_description:pos_payment_change.field_pos_payment_change_wizard__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: pos_payment_change
 #: model:ir.model.fields,field_description:pos_payment_change.field_pos_payment_change_wizard__id
@@ -89,7 +89,7 @@ msgstr "ID"
 #. module: pos_payment_change
 #: model:ir.model.fields,field_description:pos_payment_change.field_pos_payment_change_wizard____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: pos_payment_change
 #: model:ir.model.fields,field_description:pos_payment_change.field_pos_payment_change_wizard__write_uid
@@ -173,7 +173,7 @@ msgstr "Povrat i ponovna prodaja"
 
 #. module: pos_payment_change
 #. odoo-python
-#: code:addons/pos_payment_change/models/pos_order.py
+#: code:addons/pos_payment_change/models/pos_order.py:0
 #, python-format
 msgid ""
 "The payments of the Order %(order)s (Ref: %(ref)s have been changed by "
@@ -189,7 +189,7 @@ msgstr "Ukupno"
 
 #. module: pos_payment_change
 #. odoo-python
-#: code:addons/pos_payment_change/models/pos_config.py
+#: code:addons/pos_payment_change/models/pos_config.py:0
 #, python-format
 msgid ""
 "Unable to use the 'Update Payments' options for companies that have "
@@ -215,7 +215,7 @@ msgstr "ID čarobnjaka"
 
 #. module: pos_payment_change
 #. odoo-python
-#: code:addons/pos_payment_change/models/pos_order.py
+#: code:addons/pos_payment_change/models/pos_order.py:0
 #, python-format
 msgid ""
 "You can not change payments of the POS '%(name)s' because the associated "

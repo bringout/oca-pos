@@ -61,7 +61,7 @@ msgstr "<strong>Početni saldo</strong>"
 #. module: pos_report_session_summary
 #: model_terms:ir.ui.view,arch_db:pos_report_session_summary.report_session_summary
 msgid "<strong>Status</strong>"
-msgstr "<strong>Status</strong>"
+msgstr ""
 
 #. module: pos_report_session_summary
 #: model_terms:ir.ui.view,arch_db:pos_report_session_summary.report_session_summary

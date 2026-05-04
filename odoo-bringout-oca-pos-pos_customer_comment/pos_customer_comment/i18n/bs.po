@@ -20,7 +20,7 @@ msgstr "Komentar blagajnika"
 
 #. module: pos_customer_comment
 #. odoo-javascript
-#: code:addons/pos_customer_comment/static/src/xml/PartnerDetailsEdit.xml
+#: code:addons/pos_customer_comment/static/src/xml/PartnerDetailsEdit.xml:0
 #, python-format
 msgid "Comment"
 msgstr "Komentar"
@@ -49,7 +49,7 @@ msgstr "Kontakt"
 
 #. module: pos_customer_comment
 #. odoo-javascript
-#: code:addons/pos_customer_comment/static/src/xml/PartnerLine.xml
+#: code:addons/pos_customer_comment/static/src/xml/PartnerLine.xml:0
 #, python-format
 msgid "Has PoS Comment"
 msgstr "Ima PoS komentar"

@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: pos_payment_terminal
 #. odoo-javascript
-#: code:addons/pos_payment_terminal/static/src/js/models.js
+#: code:addons/pos_payment_terminal/static/src/js/models.js:0
 #, python-format
 msgid ""
 "A payment terminal has been linked to one payment provider but the IoT Box "
@@ -26,7 +26,7 @@ msgstr ""
 
 #. module: pos_payment_terminal
 #. odoo-javascript
-#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js
+#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js:0
 #, python-format
 msgid "Cannot process transactions with zero or negative amount."
 msgstr "Nije moguće obraditi transakcije sa nultim ili negativnim iznosom."
@@ -43,7 +43,7 @@ msgstr "Ček"
 
 #. module: pos_payment_terminal
 #. odoo-javascript
-#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js
+#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js:0
 #, python-format
 msgid ""
 "Failed to send the amount to pay to the payment terminal. Press the red "
@@ -54,7 +54,7 @@ msgstr ""
 
 #. module: pos_payment_terminal
 #. odoo-python
-#: code:addons/pos_payment_terminal/models/pos_payment_method.py
+#: code:addons/pos_payment_terminal/models/pos_payment_method.py:0
 #, python-format
 msgid "OCA Payment Terminal"
 msgstr "OCA terminal za plaćanje"
@@ -66,14 +66,14 @@ msgstr "Način plaćanja"
 
 #. module: pos_payment_terminal
 #. odoo-javascript
-#: code:addons/pos_payment_terminal/static/src/js/models.js
+#: code:addons/pos_payment_terminal/static/src/js/models.js:0
 #, python-format
 msgid "Payment Terminal Error"
 msgstr "Greška terminala za plaćanje"
 
 #. module: pos_payment_terminal
 #. odoo-javascript
-#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js
+#: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js:0
 #, python-format
 msgid ""
 "Please press the red button on the payment terminal to cancel the "

@@ -82,7 +82,7 @@ msgstr "Sažetak"
 
 #. module: pos_session_pay_invoice
 #. odoo-python
-#: code:addons/pos_session_pay_invoice/models/pos_session.py
+#: code:addons/pos_session_pay_invoice/models/pos_session.py:0
 #, python-format
 msgid ""
 "You can only pay invoices in an opened session. Please refresh the window "

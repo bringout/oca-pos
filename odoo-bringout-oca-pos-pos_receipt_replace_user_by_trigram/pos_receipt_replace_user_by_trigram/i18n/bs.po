@@ -45,7 +45,7 @@ msgstr "Zamijeni korisnika trigram-om na računu prodajnog mjesta"
 
 #. module: pos_receipt_replace_user_by_trigram
 #. odoo-javascript
-#: code:addons/pos_receipt_replace_user_by_trigram/static/src/xml/order_receipt.xml
+#: code:addons/pos_receipt_replace_user_by_trigram/static/src/xml/order_receipt.xml:0
 #, python-format
 msgid "Served by"
 msgstr "Poslužio"

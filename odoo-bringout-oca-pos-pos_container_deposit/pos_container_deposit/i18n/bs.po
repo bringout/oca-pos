@@ -16,13 +16,12 @@ msgstr ""
 #. module: pos_container_deposit
 #: model:product.template,name:pos_container_deposit.demo_deposit_product_product_template
 msgid "Bottle deposit .25"
-msgstr "Bottle deposit .25"
+msgstr ""
 
 #. module: pos_container_deposit
 #: model:ir.model.fields,help:pos_container_deposit.field_product_product__is_deposit
 msgid "Check this if this product is a container for which you charge deposit"
 msgstr ""
-"Check this if this product is a container for which you charge deposit"
 
 #. module: pos_container_deposit
 #: model:ir.model.fields,field_description:pos_container_deposit.field_product_product__deposit_product_id
@@ -31,20 +30,20 @@ msgstr "Polog"
 
 #. module: pos_container_deposit
 #. odoo-javascript
-#: code:addons/pos_container_deposit/static/src/js/models.js
+#: code:addons/pos_container_deposit/static/src/js/models.js:0
 #, python-format
 msgid "Deposit not available"
-msgstr "Deposit not available"
+msgstr ""
 
 #. module: pos_container_deposit
 #: model:ir.model.fields,field_description:pos_container_deposit.field_product_template__deposit_product_id
 msgid "Deposit product"
-msgstr "Deposit product"
+msgstr ""
 
 #. module: pos_container_deposit
 #: model:product.template,name:pos_container_deposit.demo_product_product_template
 msgid "Generic sugar liquid"
-msgstr "Generic sugar liquid"
+msgstr ""
 
 #. module: pos_container_deposit
 #: model:ir.model.fields,help:pos_container_deposit.field_product_product__deposit_product_id
@@ -52,13 +51,11 @@ msgid ""
 "If this product is packaged in a container for which you charge deposit, add"
 " a product here that stands for the deposit"
 msgstr ""
-"If this product is packaged in a container for which you charge deposit, add"
-" a product here that stands for the deposit"
 
 #. module: pos_container_deposit
 #: model:ir.model.fields,field_description:pos_container_deposit.field_product_product__is_deposit
 msgid "Is Deposit"
-msgstr "Is Deposit"
+msgstr ""
 
 #. module: pos_container_deposit
 #: model:ir.model,name:pos_container_deposit.model_pos_session
@@ -68,7 +65,7 @@ msgstr "Sesija POS-a"
 #. module: pos_container_deposit
 #: model:ir.model,name:pos_container_deposit.model_product_template
 msgid "Product"
-msgstr "Artikal"
+msgstr "Proizvod"
 
 #. module: pos_container_deposit
 #: model:ir.model,name:pos_container_deposit.model_product_product
@@ -77,11 +74,9 @@ msgstr "Varijanta proizvoda"
 
 #. module: pos_container_deposit
 #. odoo-javascript
-#: code:addons/pos_container_deposit/static/src/js/models.js
+#: code:addons/pos_container_deposit/static/src/js/models.js:0
 #, python-format
 msgid ""
 "The product %s is configured as having a deposit but the deposit product %s "
 "is not available in POS."
 msgstr ""
-"The product %s is configured as having a deposit but the deposit product %s "
-"is not available in POS."

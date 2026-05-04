@@ -15,14 +15,14 @@ msgstr ""
 
 #. module: pos_order_to_sale_order_sale_financial_risk
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_sale_financial_risk/static/src/js/CreateOrderPopup.esm.js
+#: code:addons/pos_order_to_sale_order_sale_financial_risk/static/src/js/CreateOrderPopup.esm.js:0
 #, python-format
 msgid "Financial risk exceeded.\n"
 msgstr "Finansijski rizik premašen.\\\n"
 
 #. module: pos_order_to_sale_order_sale_financial_risk
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_sale_financial_risk/static/src/js/CreateOrderPopup.esm.js
+#: code:addons/pos_order_to_sale_order_sale_financial_risk/static/src/js/CreateOrderPopup.esm.js:0
 #, python-format
 msgid "Partner risk exceeded"
 msgstr "Partnerski rizik premašen"
@@ -35,18 +35,18 @@ msgstr "Sesija POS-a"
 #. module: pos_order_to_sale_order_sale_financial_risk
 #: model:ir.model,name:pos_order_to_sale_order_sale_financial_risk.model_sale_order
 msgid "Sales Order"
-msgstr "Prodajni nalog"
+msgstr "Narudžba"
 
 #. module: pos_order_to_sale_order_sale_financial_risk
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_sale_financial_risk/static/src/js/CreateOrderPopup.esm.js
+#: code:addons/pos_order_to_sale_order_sale_financial_risk/static/src/js/CreateOrderPopup.esm.js:0
 #, python-format
 msgid "This sale order exceeds the financial risk.\n"
 msgstr "Ova prodajna narudžba premašuje finansijski rizik.\\\n"
 
 #. module: pos_order_to_sale_order_sale_financial_risk
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order_sale_financial_risk/static/src/js/CreateOrderPopup.esm.js
+#: code:addons/pos_order_to_sale_order_sale_financial_risk/static/src/js/CreateOrderPopup.esm.js:0
 #, python-format
 msgid "This sale order exceeds the sales orders risk.\n"
 msgstr "Ova prodajna narudžba premašuje rizik prodajnih narudžbi.\\\n"

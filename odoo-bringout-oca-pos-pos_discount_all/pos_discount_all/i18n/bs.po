@@ -21,14 +21,10 @@ msgid ""
 "If you use 'Pos Discount' Odoo module, you should check this box for the "
 "product you configured as the 'Discount Product' on your PoS config."
 msgstr ""
-"Check this box if you use this product to realize discount on sale. If check"
-" the sale lines will be ignored when computing the amount without discount. "
-"If you use 'Pos Discount' Odoo module, you should check this box for the "
-"product you configured as the 'Discount Product' on your PoS config."
 
 #. module: pos_discount_all
 #. odoo-javascript
-#: code:addons/pos_discount_all/static/src/xml/OrderSummary.xml
+#: code:addons/pos_discount_all/static/src/xml/OrderSummary.xml:0
 #, python-format
 msgid "Discount Amount:"
 msgstr "Defaultni procenat popusta"
@@ -51,4 +47,4 @@ msgstr "Sesija POS-a"
 #. module: pos_discount_all
 #: model:ir.model,name:pos_discount_all.model_product_template
 msgid "Product"
-msgstr "Artikal"
+msgstr "Proizvod"

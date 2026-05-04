@@ -15,17 +15,17 @@ msgstr ""
 
 #. module: pos_partner_firstname
 #. odoo-javascript
-#: code:addons/pos_partner_firstname/static/src/js/PartnerDetailsEdit.js
+#: code:addons/pos_partner_firstname/static/src/js/PartnerDetailsEdit.js:0
 #, python-format
 msgid "Both Customer First and Last Name Are Required"
 msgstr "Potrebno je i ime i prezime kupca"
 
 #. module: pos_partner_firstname
 #. odoo-javascript
-#: code:addons/pos_partner_firstname/static/src/xml/pos.xml
+#: code:addons/pos_partner_firstname/static/src/xml/pos.xml:0
 #, python-format
 msgid "Company"
-msgstr "Preduzeće"
+msgstr "Kompanija"
 
 #. module: pos_partner_firstname
 #: model:ir.model,name:pos_partner_firstname.model_res_partner
@@ -34,28 +34,28 @@ msgstr "Kontakt"
 
 #. module: pos_partner_firstname
 #. odoo-javascript
-#: code:addons/pos_partner_firstname/static/src/xml/pos.xml
+#: code:addons/pos_partner_firstname/static/src/xml/pos.xml:0
 #, python-format
 msgid "First Name"
 msgstr "Ime"
 
 #. module: pos_partner_firstname
 #. odoo-javascript
-#: code:addons/pos_partner_firstname/static/src/xml/pos.xml
+#: code:addons/pos_partner_firstname/static/src/xml/pos.xml:0
 #, python-format
 msgid "FirstName"
 msgstr "Ime"
 
 #. module: pos_partner_firstname
 #. odoo-javascript
-#: code:addons/pos_partner_firstname/static/src/xml/pos.xml
+#: code:addons/pos_partner_firstname/static/src/xml/pos.xml:0
 #, python-format
 msgid "Last Name"
 msgstr "Prezime"
 
 #. module: pos_partner_firstname
 #. odoo-javascript
-#: code:addons/pos_partner_firstname/static/src/xml/pos.xml
+#: code:addons/pos_partner_firstname/static/src/xml/pos.xml:0
 #, python-format
 msgid "LastName"
 msgstr "Prezime"

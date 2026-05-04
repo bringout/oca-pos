@@ -21,17 +21,17 @@ msgstr "Postavke"
 #. module: pos_default_partner
 #: model:ir.model.fields,field_description:pos_default_partner.field_pos_config__default_partner_id
 msgid "Default Customer"
-msgstr "Default Customer"
+msgstr ""
 
 #. module: pos_default_partner
 #: model_terms:ir.ui.view,arch_db:pos_default_partner.res_config_settings_view_form
 msgid "Default customer"
-msgstr "Default customer"
+msgstr ""
 
 #. module: pos_default_partner
 #: model_terms:ir.ui.view,arch_db:pos_default_partner.res_config_settings_view_form
 msgid "Default customer to use if none is set"
-msgstr "Default customer to use if none is set"
+msgstr ""
 
 #. module: pos_default_partner
 #: model:ir.model,name:pos_default_partner.model_pos_config

@@ -95,7 +95,7 @@ msgstr "Mješavina POS obavještavača zaliha"
 
 #. module: pos_stock_available_online
 #. odoo-javascript
-#: code:addons/pos_stock_available_online/static/src/xml/Screens/ProductScreen/ProductItem.xml
+#: code:addons/pos_stock_available_online/static/src/xml/Screens/ProductScreen/ProductItem.xml:0
 #, python-format
 msgid "Total"
 msgstr "Ukupno"

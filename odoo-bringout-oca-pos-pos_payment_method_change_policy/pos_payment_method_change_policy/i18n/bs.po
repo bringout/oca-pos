@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: pos_payment_method_change_policy
 #. odoo-javascript
-#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js
+#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js:0
 #, python-format
 msgid ""
 "\n"
@@ -31,7 +31,7 @@ msgstr "Gotovina"
 
 #. module: pos_payment_method_change_policy
 #. odoo-javascript
-#: code:addons/pos_payment_method_change_policy/static/src/xml/PaymentScreen.xml
+#: code:addons/pos_payment_method_change_policy/static/src/xml/PaymentScreen.xml:0
 #, python-format
 msgid "Change"
 msgstr "Promjeni"
@@ -48,14 +48,14 @@ msgstr "Proizvod promjene"
 
 #. module: pos_payment_method_change_policy
 #. odoo-javascript
-#: code:addons/pos_payment_method_change_policy/static/src/xml/PaymentScreen.xml
+#: code:addons/pos_payment_method_change_policy/static/src/xml/PaymentScreen.xml:0
 #, python-format
 msgid "Customer Loss"
 msgstr "Gubitak kupca"
 
 #. module: pos_payment_method_change_policy
 #. odoo-javascript
-#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js
+#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js:0
 #, python-format
 msgid "Error: Unavailable Product."
 msgstr "Greška: Proizvod nije dostupan."
@@ -83,7 +83,7 @@ msgstr "Proizvod bez kusura"
 
 #. module: pos_payment_method_change_policy
 #. odoo-javascript
-#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js
+#: code:addons/pos_payment_method_change_policy/static/src/js/PaymentScreen.esm.js:0
 #, python-format
 msgid ""
 "Please make the following product\n"
@@ -106,7 +106,7 @@ msgstr "Sesija POS-a"
 
 #. module: pos_payment_method_change_policy
 #. odoo-python
-#: code:addons/pos_payment_method_change_policy/models/pos_payment_method.py
+#: code:addons/pos_payment_method_change_policy/models/pos_payment_method.py:0
 #, python-format
 msgid ""
 "The field 'Change Product' is required if the 'Change policy' is set to "

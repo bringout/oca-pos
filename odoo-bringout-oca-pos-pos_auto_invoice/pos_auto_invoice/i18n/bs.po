@@ -21,7 +21,7 @@ msgstr "Postavke"
 #. module: pos_auto_invoice
 #: model:ir.model.fields,field_description:pos_auto_invoice.field_pos_config__invoice_by_default
 msgid "Invoice By Default"
-msgstr "Invoice By Default"
+msgstr ""
 
 #. module: pos_auto_invoice
 #: model:ir.model,name:pos_auto_invoice.model_pos_config
@@ -31,4 +31,4 @@ msgstr "Postavke prodajnog mjesta"
 #. module: pos_auto_invoice
 #: model_terms:ir.ui.view,arch_db:pos_auto_invoice.res_config_settings_view_form
 msgid "Set orders as to-invoice by default"
-msgstr "Set orders as to-invoice by default"
+msgstr ""

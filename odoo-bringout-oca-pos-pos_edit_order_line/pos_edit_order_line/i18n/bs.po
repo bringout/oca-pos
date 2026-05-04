@@ -16,16 +16,16 @@ msgstr ""
 #. module: pos_edit_order_line
 #: model:ir.model.fields,field_description:pos_edit_order_line.field_pos_config__allow_edit_order_line
 msgid "Allow Edit Order Line"
-msgstr "Allow Edit Order Line"
+msgstr ""
 
 #. module: pos_edit_order_line
 #: model_terms:ir.ui.view,arch_db:pos_edit_order_line.res_config_settings_view_form
 msgid "Allow edit Order Line in popup"
-msgstr "Allow edit Order Line in popup"
+msgstr ""
 
 #. module: pos_edit_order_line
 #. odoo-javascript
-#: code:addons/pos_edit_order_line/static/src/js/EditOrderPopup.js
+#: code:addons/pos_edit_order_line/static/src/js/EditOrderPopup.js:0
 #, python-format
 msgid "Cancel"
 msgstr "Otkaži"
@@ -37,28 +37,28 @@ msgstr "Postavke"
 
 #. module: pos_edit_order_line
 #. odoo-javascript
-#: code:addons/pos_edit_order_line/static/src/xml/EditOrderPopup.xml
+#: code:addons/pos_edit_order_line/static/src/xml/EditOrderPopup.xml:0
 #, python-format
 msgid "Discount"
 msgstr "Popust"
 
 #. module: pos_edit_order_line
 #. odoo-javascript
-#: code:addons/pos_edit_order_line/static/src/js/EditOrderButton.js
+#: code:addons/pos_edit_order_line/static/src/js/EditOrderButton.js:0
 #, python-format
 msgid "Edit Order Line"
-msgstr "Edit Order Line"
+msgstr ""
 
 #. module: pos_edit_order_line
 #. odoo-javascript
-#: code:addons/pos_edit_order_line/static/src/xml/EditOrderButton.xml
+#: code:addons/pos_edit_order_line/static/src/xml/EditOrderButton.xml:0
 #, python-format
 msgid "Edit Order Lines"
-msgstr "Edit Order Lines"
+msgstr ""
 
 #. module: pos_edit_order_line
 #. odoo-javascript
-#: code:addons/pos_edit_order_line/static/src/js/EditOrderButton.js
+#: code:addons/pos_edit_order_line/static/src/js/EditOrderButton.js:0
 #, python-format
 msgid "Empty Order"
 msgstr "Prazna narudžba"
@@ -70,42 +70,42 @@ msgstr "Postavke prodajnog mjesta"
 
 #. module: pos_edit_order_line
 #. odoo-javascript
-#: code:addons/pos_edit_order_line/static/src/xml/EditOrderPopup.xml
+#: code:addons/pos_edit_order_line/static/src/xml/EditOrderPopup.xml:0
 #, python-format
 msgid "Price"
 msgstr "Cijena"
 
 #. module: pos_edit_order_line
 #. odoo-javascript
-#: code:addons/pos_edit_order_line/static/src/xml/EditOrderPopup.xml
+#: code:addons/pos_edit_order_line/static/src/xml/EditOrderPopup.xml:0
 #, python-format
 msgid "Product"
-msgstr "Artikal"
+msgstr "Proizvod"
 
 #. module: pos_edit_order_line
 #. odoo-javascript
-#: code:addons/pos_edit_order_line/static/src/xml/EditOrderPopup.xml
+#: code:addons/pos_edit_order_line/static/src/xml/EditOrderPopup.xml:0
 #, python-format
 msgid "Quantity"
 msgstr "Količina"
 
 #. module: pos_edit_order_line
 #. odoo-javascript
-#: code:addons/pos_edit_order_line/static/src/js/EditOrderPopup.js
+#: code:addons/pos_edit_order_line/static/src/js/EditOrderPopup.js:0
 #, python-format
 msgid "Save"
 msgstr "Spremi"
 
 #. module: pos_edit_order_line
 #. odoo-javascript
-#: code:addons/pos_edit_order_line/static/src/xml/EditOrderPopup.xml
+#: code:addons/pos_edit_order_line/static/src/xml/EditOrderPopup.xml:0
 #, python-format
 msgid "UoM"
 msgstr "JMJ"
 
 #. module: pos_edit_order_line
 #. odoo-javascript
-#: code:addons/pos_edit_order_line/static/src/js/EditOrderButton.js
+#: code:addons/pos_edit_order_line/static/src/js/EditOrderButton.js:0
 #, python-format
 msgid "You need add some products first"
-msgstr "You need add some products first"
+msgstr ""

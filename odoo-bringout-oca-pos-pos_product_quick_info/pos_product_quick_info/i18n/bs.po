@@ -30,7 +30,7 @@ msgstr "Prikaži informacije o proizvodu jednim klikom"
 
 #. module: pos_product_quick_info
 #. odoo-javascript
-#: code:addons/pos_product_quick_info/static/src/xml/Screens/ProductScreen/ProductItem.xml
+#: code:addons/pos_product_quick_info/static/src/xml/Screens/ProductScreen/ProductItem.xml:0
 #, python-format
 msgid "Info"
 msgstr "Informacija"

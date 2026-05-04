@@ -15,14 +15,14 @@ msgstr ""
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
 #, python-format
 msgid "Cancel"
 msgstr "Otkaži"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
 #, python-format
 msgid "Choose Labels Layout"
 msgstr "Odaberite izgled naljepnica"
@@ -40,7 +40,7 @@ msgstr "Postavke"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
 #, python-format
 msgid "Custom"
 msgstr "Prilagođeno"
@@ -52,21 +52,21 @@ msgstr "Prikaži dugme za štampanje etiketa proizvoda za naručene proizvode"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
 #, python-format
 msgid "Extra Content"
 msgstr "Dodatni sadržaj"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
 #, python-format
 msgid "Format"
-msgstr "Format"
+msgstr ""
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
 #, python-format
 msgid "Order Quantities"
 msgstr "Količine narudžbe"
@@ -83,14 +83,14 @@ msgstr "Sesija POS-a"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
 #, python-format
 msgid "Print"
 msgstr "Ispis"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelButton.xml
+#: code:addons/pos_product_label/static/src/PrintLabelButton.xml:0
 #, python-format
 msgid "Print Labels"
 msgstr "Štampa labela"
@@ -102,14 +102,14 @@ msgstr "Štampaj etikete proizvoda"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
 #, python-format
 msgid "Quantity"
 msgstr "Količina"
 
 #. module: pos_product_label
 #. odoo-javascript
-#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml
+#: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
 #, python-format
 msgid "Quantity to Print"
 msgstr "Količina za štampanje"

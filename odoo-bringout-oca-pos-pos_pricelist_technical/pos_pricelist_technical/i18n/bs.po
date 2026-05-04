@@ -26,4 +26,4 @@ msgstr "Sesija POS-a"
 #. module: pos_pricelist_technical
 #: model:ir.model.fields,field_description:pos_pricelist_technical.field_pos_order__pricelist_id
 msgid "Pricelist"
-msgstr "Cjenik"
+msgstr "Cjenovnik"

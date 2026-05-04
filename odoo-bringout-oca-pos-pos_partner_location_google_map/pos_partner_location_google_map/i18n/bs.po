@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: pos_partner_location_google_map
 #. odoo-python
-#: code:addons/pos_partner_location_google_map/models/base_geocoder.py
+#: code:addons/pos_partner_location_google_map/models/base_geocoder.py:0
 #, python-format
 msgid ""
 "API key for GeoCoding (Places) required.\n"

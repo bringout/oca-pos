@@ -20,7 +20,7 @@ msgstr "Postavke"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml:0
 #, python-format
 msgid "Create Confirmed Sale Order"
 msgstr "Kreiraj potvrđenu prodajnu narudžbu"
@@ -32,7 +32,7 @@ msgstr "Kreiraj potvrđene prodajne narudžbe"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml:0
 #, python-format
 msgid "Create Delivered Sale Order"
 msgstr "Kreiraj isporučenu prodajnu narudžbu"
@@ -44,7 +44,7 @@ msgstr "Kreiraj isporučene prodajne narudžbe"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml:0
 #, python-format
 msgid "Create Draft Sale Order"
 msgstr "Kreiraj nacrt prodajne narudžbe"
@@ -56,7 +56,7 @@ msgstr "Kreiraj nacrte prodajnih narudžbi"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml:0
 #, python-format
 msgid "Create Invoiced Sale Order"
 msgstr "Kreiraj fakturisanu prodajnu narudžbu"
@@ -68,7 +68,7 @@ msgstr "Kreiraj fakturisane prodajne narudžbe"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderButton.xml
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderButton.xml:0
 #, python-format
 msgid "Create Order"
 msgstr "Kreiraj narudžbu"
@@ -80,7 +80,7 @@ msgstr "Kreiraj prodajne narudžbe"
 
 #. module: pos_order_to_sale_order
 #. odoo-javascript
-#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml
+#: code:addons/pos_order_to_sale_order/static/src/xml/CreateOrderPopup.xml:0
 #, python-format
 msgid "Discard"
 msgstr "Napusti"
@@ -127,7 +127,7 @@ msgstr ""
 
 #. module: pos_order_to_sale_order
 #. odoo-python
-#: code:addons/pos_order_to_sale_order/models/sale_order.py
+#: code:addons/pos_order_to_sale_order/models/sale_order.py:0
 #, python-format
 msgid "Point of Sale %s"
 msgstr "Prodajno mjesto %s"
@@ -145,9 +145,9 @@ msgstr "Kreiranje prodajne narudžbe"
 #. module: pos_order_to_sale_order
 #: model:ir.model,name:pos_order_to_sale_order.model_sale_order
 msgid "Sales Order"
-msgstr "Prodajni nalog"
+msgstr "Narudžba"
 
 #. module: pos_order_to_sale_order
 #: model:ir.model,name:pos_order_to_sale_order.model_sale_order_line
 msgid "Sales Order Line"
-msgstr "Stavka prodajne narudžbe"
+msgstr "Stavka narudžbe"
