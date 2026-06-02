@@ -21,7 +21,7 @@ msgstr ""
 #. module: pos_global_discount_in_line
 #: model:ir.model,name:pos_global_discount_in_line.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_global_discount_in_line
 #. odoo-javascript

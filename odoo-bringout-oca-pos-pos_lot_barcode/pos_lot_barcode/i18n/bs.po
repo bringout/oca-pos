@@ -18,7 +18,7 @@ msgstr ""
 #: code:addons/pos_lot_barcode/static/src/js/Popups/ErrorMultiLotBarcodePopup.js:0
 #, python-format
 msgid "Cancel"
-msgstr "Otkaži"
+msgstr "Odustani"
 
 #. module: pos_lot_barcode
 #. odoo-javascript

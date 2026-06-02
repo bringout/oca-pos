@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_cash_control_override
 #: model:ir.model,name:pos_cash_control_override.model_account_bank_statement_line
 msgid "Bank Statement Line"
-msgstr "Stavka izvoda banke"
+msgstr "Stavka bankovnog izvoda"
 
 #. module: pos_cash_control_override
 #: model:ir.model,name:pos_cash_control_override.model_pos_session

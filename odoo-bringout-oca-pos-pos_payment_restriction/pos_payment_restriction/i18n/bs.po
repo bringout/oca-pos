@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_payment_restriction
 #: model:ir.model,name:pos_payment_restriction.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_payment_restriction
 #: model:ir.model.fields,field_description:pos_payment_restriction.field_pos_config__payment_amount_readonly

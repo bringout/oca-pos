@@ -25,4 +25,4 @@ msgstr "Plati"
 #: code:addons/pos_payment_usability/static/src/xml/PaymentScreen.xml:0
 #, python-format
 msgid "Validate"
-msgstr "Ovjeri"
+msgstr "Potvrdi"

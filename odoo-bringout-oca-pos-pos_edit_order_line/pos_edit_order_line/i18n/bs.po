@@ -28,12 +28,12 @@ msgstr ""
 #: code:addons/pos_edit_order_line/static/src/js/EditOrderPopup.js:0
 #, python-format
 msgid "Cancel"
-msgstr "Otkaži"
+msgstr "Odustani"
 
 #. module: pos_edit_order_line
 #: model:ir.model,name:pos_edit_order_line.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_edit_order_line
 #. odoo-javascript
@@ -94,7 +94,7 @@ msgstr "Količina"
 #: code:addons/pos_edit_order_line/static/src/js/EditOrderPopup.js:0
 #, python-format
 msgid "Save"
-msgstr "Spremi"
+msgstr "Snimi"
 
 #. module: pos_edit_order_line
 #. odoo-javascript

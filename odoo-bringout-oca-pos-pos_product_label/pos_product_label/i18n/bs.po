@@ -18,7 +18,7 @@ msgstr ""
 #: code:addons/pos_product_label/static/src/PrintLabelPopup.xml:0
 #, python-format
 msgid "Cancel"
-msgstr "Otkaži"
+msgstr "Odustani"
 
 #. module: pos_product_label
 #. odoo-javascript
@@ -36,7 +36,7 @@ msgstr ""
 #. module: pos_product_label
 #: model:ir.model,name:pos_product_label.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_product_label
 #. odoo-javascript

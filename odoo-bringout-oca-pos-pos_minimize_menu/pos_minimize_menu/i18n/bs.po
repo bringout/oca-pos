@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_minimize_menu
 #: model:ir.model,name:pos_minimize_menu.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_minimize_menu
 #: model:ir.model.fields,field_description:pos_minimize_menu.field_pos_config__iface_important_buttons

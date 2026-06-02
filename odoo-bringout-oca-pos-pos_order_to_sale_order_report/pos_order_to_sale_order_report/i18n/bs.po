@@ -21,7 +21,7 @@ msgstr "<span class=\"o_form_label\">Izvještaj</span>"
 #. module: pos_order_to_sale_order_report
 #: model:ir.model,name:pos_order_to_sale_order_report.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_order_to_sale_order_report
 #: model:ir.model.fields,field_description:pos_order_to_sale_order_report.field_res_config_settings__pos_iface_create_sale_order

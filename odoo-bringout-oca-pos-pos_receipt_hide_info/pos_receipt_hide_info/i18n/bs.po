@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_receipt_hide_info
 #: model:ir.model,name:pos_receipt_hide_info.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_receipt_hide_info
 #: model:ir.model.fields,field_description:pos_receipt_hide_info.field_pos_config__hide_company_email

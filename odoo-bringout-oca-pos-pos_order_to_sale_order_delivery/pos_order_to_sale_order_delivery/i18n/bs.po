@@ -30,12 +30,12 @@ msgstr "Dozvoli dostavu"
 #: code:addons/pos_order_to_sale_order_delivery/static/src/js/Popups/ChooseDeliveryCarrierPopup.esm.js:0
 #, python-format
 msgid "Cancel"
-msgstr "Otkaži"
+msgstr "Odustani"
 
 #. module: pos_order_to_sale_order_delivery
 #: model:ir.model,name:pos_order_to_sale_order_delivery.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_order_to_sale_order_delivery
 #. odoo-javascript

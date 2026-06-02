@@ -16,7 +16,7 @@ msgstr ""
 #. module: pos_product_quick_info
 #: model:ir.model,name:pos_product_quick_info.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: pos_product_quick_info
 #: model:ir.model.fields,field_description:pos_product_quick_info.field_pos_config__display_quick_product_info
